@@ -36,13 +36,13 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/BonusBank/bonusbank_docs/",
+          editUrl: "https://github.com/BonusBank/bonusbank_docs/blob/main/",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/BonusBank/bonusbank_docs/",
+          editUrl: "https://github.com/BonusBank/bonusbank_docs/blob/main/",
           blogTitle: 'Development blog',
           blogDescription: 'A blog to share all tips & tricks and latest changes to our products!',
           postsPerPage: 'ALL',
@@ -118,7 +118,7 @@ const config = {
               },
               {
                 label: "GitHub",
-                href: "https://github.com/facebook/docusaurus",
+                href: "https://github.com/BonusBank/bonusbank_docs/",
               },
             ],
           },
