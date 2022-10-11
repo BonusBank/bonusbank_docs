@@ -3,28 +3,32 @@
  * bundles Infima by default. Infima is a CSS framework designed to
  * work well for content-centric websites.
  */
+ @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-color-primary: #085a87;
+  --ifm-color-primary-dark: #07517a;
+  --ifm-color-primary-darker: #074d73;
+  --ifm-color-primary-darkest: #063f5e;
+  --ifm-color-primary-light: #096394;
+  --ifm-color-primary-lighter: #09689b;
+  --ifm-color-primary-lightest: #0a75b0;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --ifm-font-family-base: 'Poppins';
+  --ifm-background-color: #EFF4F1;
+  --ifm-background-surface-color: #EFF4F1;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
+  --ifm-color-primary: #68df9f;
+  --ifm-color-primary-dark: #4dd98e;
+  --ifm-color-primary-darker: #40d685;
+  --ifm-color-primary-darkest: #28bd6d;
+  --ifm-color-primary-light: #83e5b0;
+  --ifm-color-primary-lighter: #90e8b9;
+  --ifm-color-primary-lightest: #b9f0d2;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }

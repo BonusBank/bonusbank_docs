@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
-slug: /hola-amicci
+id: intro
+title: Introduction
 ---
 
 # Tutorial Intro
