@@ -1,7 +1,7 @@
 ---
 slug: new-portal
 title: New Documentation Portal!
-authors: lhidalgo
+authors: [lhidalgo, vbarcelon, abogaarts]
 tags: [welcome, general]
 ---
 
