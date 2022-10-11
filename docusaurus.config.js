@@ -79,7 +79,6 @@ const config = {
         logo: {
           alt: "BonusBank Logo",
           src: "img/logo.svg",
-          href: "https://www.bonusbank.eu",
         },
         items: [
           {
@@ -103,11 +102,15 @@ const config = {
         style: "dark",
         links: [
           {
-            title: "Learn",
+            title: "Read",
             items: [
               {
-                label: "Docs",
+                label: "Documentation",
                 to: "/docs/intro",
+              },
+              {
+                label: "Blog",
+                to: "/blog",
               },
             ],
           },
@@ -132,12 +135,20 @@ const config = {
             title: "More",
             items: [
               {
-                label: "Blog",
-                to: "/blog",
+                label: "Our Website",
+                href: "https://www.bonusbank.eu",
               },
               {
-                label: "GitHub",
-                href: "https://github.com/BonusBank/bonusbank_docs/",
+                label: "Play Store",
+                href: "https://play.google.com/store/apps/details?id=com.bonusbank.bonusbank_app",
+              },
+              {
+                label: "App Store",
+                href: "https://apps.apple.com/us/app/bonusbank/id1578469644",
+              },
+              {
+                label: "Management Portal",
+                href: "https://dash.bonusbank.eu",
               },
             ],
           },
