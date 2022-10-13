@@ -37,6 +37,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl: "https://github.com/BonusBank/bonusbank_docs/blob/main/",
+          showLastUpdateTime: true,
         },
         blog: {
           showReadingTime: true,
@@ -202,7 +203,6 @@ const config = {
         id: 'guides',
         path: 'guides',
         routeBasePath: 'guides',
-        showLastUpdateAuthor: true,
         showLastUpdateTime: true,
       },
     ],
