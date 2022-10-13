@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-id: docs-intro
+id: guides-intro
 title: Introduction
 ---
 
