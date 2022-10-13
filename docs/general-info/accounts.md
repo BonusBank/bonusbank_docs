@@ -2,6 +2,13 @@
 sidebar_position: 2
 id: general-account
 title: Accounts
+description: Creation and recovery of accounts
+keywords:
+  - accounts
+  - recovery
+  - register
+last_update:
+  date: 10/13/2022
 ---
 
 # How to create a BonusBank account?
