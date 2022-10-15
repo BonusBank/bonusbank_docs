@@ -4,46 +4,75 @@ id: guides-intro
 title: Introduction
 ---
 
-# Tutorial Intro
+# Examples for styling docs
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## Normal image usage
 
-## Getting Started
+<img src={require('./img/csr.png').default} alt="drawing" width="500"/>
 
-Get started by **creating a new site**.
+## Centered image usage
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+<p align="center">
+  <img src={require('./img/csr.png').default} alt="drawing" width="500"/>
+</p>
 
-### What you'll need
+## Column layout example
+<table class="invisibleTable">
+  <tr>
+    <td>
+      <p align="center">
+        <img src={require('./img/csr.png').default} alt="drawing"/>
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin placerat mauris eget magna vehicula, quis commodo dui feugiat. Nunc ac libero id elit iaculis commodo. Suspendisse consectetur dolor quam, eget pellentesque tortor eleifend eget. Nunc et dui lectus. Etiam vel sapien tempor, varius dui sollicitudin, aliquam purus.
+      </p>
+    </td>
+  </tr>
+</table>
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## Centered text
 
-## Generate a new site
+<p align="center">
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin placerat mauris eget magna vehicula, quis commodo dui feugiat. Nunc ac libero id elit iaculis commodo. Suspendisse consectetur dolor quam, eget pellentesque tortor eleifend eget. Nunc et dui lectus. Etiam vel sapien tempor, varius dui sollicitudin, aliquam purus.
+</p>
 
-Generate a new Docusaurus site using the **classic template**.
+## Warnings / Notes
 
-The classic template will automatically be added to your project after you run the command:
+:::note
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+Some **content** with _Markdown_ `syntax`.
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+:::
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+:::tip
 
-## Start your site
+Some **content** with _Markdown_ `syntax`.
 
-Run the development server:
+:::
 
-```bash
-cd my-website
-npm run start
-```
+:::info
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+Some **content** with _Markdown_ `syntax`.
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+:::
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+:::caution
+
+Some **content** with _Markdown_ `syntax`.
+
+:::
+
+:::danger
+
+Some **content** with _Markdown_ `syntax`.
+
+:::
+
+:::tip Custom Title
+
+This is how you add a custom title to a `Admonitions` 😉
+By default the title will be the type of `Admonition` used.
+
+:::
