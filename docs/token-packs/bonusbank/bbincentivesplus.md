@@ -1,0 +1,58 @@
+---
+sidebar_position: 5
+id: bb-incentives-plus
+title: BB INCENTIVES PLUS
+description: Use these tokens for special incentives.
+keywords:
+  - special
+  - tokens
+  - charities
+last_update:
+  date: 10/19/2022
+---
+
+# BB INCENTIVES PLUS
+
+Use these tokens for special incentives like stock options, phantom shares and the ability to donate to favorite charities.
+
+## Rewards
+
+Giving a reward, prize or other mark of recognition in honor of a person's achievement or performance
+
+## CSR
+
+Enhance and fulfil your organization's social responsibility goal: donations, solidarity initiatives, equality, etc.
+
+# Plus
+
+Token exchangeable for something special, such as: prizes, days off, trainings, remote work days... And much more!
+
+# Ownership
+
+Token exchangeable for a possible future share of the company's capital
+
+# Phantoms
+
+The value of the Tokens track the value of shares. Reward talent with phantom Tokens instead of a phantom share.
+
+# Fundraising
+
+Organize solidarity activities to fund community projects with the proceeds
+
+# Donation
+
+Make donations to support various causes: NGOs, soup kitchens, citizens' platforms....
+
+### Basic Configuration
+
+- Social view: true
+- Anonymous transfers: false
+- Token Value: 0.5€
+
+### Rubriks:
+
+- 1⭐ - 🤨​ Please start!
+- 2⭐ - 🙄​ Room for improvement
+- 3⭐ - 🙌🏼​ Getting there
+- 4⭐ - 🤩​ Great
+- 5⭐ - 💯​ Master!
