@@ -16,7 +16,9 @@ last_update:
 
 The **implementation process** of different **Token Packs** follow a similar logic. To help you understand it, we will illustrate this process with the Initial Token package (the starters pack).
 
+:::note "
 > ## " BonusBank serves SMEs, Startups / Scaleups and Enterprises
+:::
 
 **BonusBank** serves **three** major business **segments**:
 
@@ -26,9 +28,13 @@ The **implementation process** of different **Token Packs** follow a similar log
 
 Looking in more detail at the needs of the 3 segments mentioned above, we see how some may be more interested in Hard Tokens and others in Soft Tokens(as defined in the Introduction).
 
-> ### " The Initial Pack is a general Token Pack that responds to all possible needs of the above-mentioned market segments.
->
+:::note "
+> ### The Initial Pack is a general Token Pack that responds to all possible needs of the above-mentioned market segments.
+:::
+
+:::note "
 > ### It consists of 5 types of token: Recognition, Expertise, RSC, Bonus and Profit
+:::
 
 The **first two** have no concrete value and are therefore more like **Soft Tokens** (despite the fact that the Expertise Tokens can be linked to Tokens for financial incentives, as described in the next chapter); the **third** (RSC) is a **hybrid** of both types, and the **last two** (Bonus and Profit) are what we call **Hard Tokens** because they represent tangible bonuses and monetary rewards.
 
@@ -36,6 +42,8 @@ In order for any kind of organization to be able to start with **Tokens**, we ha
 
 There will also be many organizations with their own very well-defined evaluation method and activities, and who know how to translate their KPIs or OKRs into Tokens. In such a case, we offer a bespoke **Token Pack** with a more detailed and personalized set of tokens. This may depends on the segment, sector, profile and average age of the employees or the company culture.
 
-> ### " With the Initial Pack we get a better understanding of how the application works, we get to know the three dimensions of Tokens and we immediately have a workable solution
+:::note "
+> ### With the Initial Pack we get a better understanding of how the application works, we get to know the three dimensions of Tokens and we immediately have a workable solution
+:::
 
 Using the **Initial Pack** has many **advantages**: we get a better understanding of how the application works, we learn the 3 dimensions of Tokens (social, performance and competence) and we immediately have a workable solution…. And from there we can supplement it with other Packs developed by **BonusBank** or one of its partners, or one can develop our own Token Pack and thus reach **the next level**.

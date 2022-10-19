@@ -13,9 +13,9 @@ last_update:
 
 # Let's Act III: Goals
 
-## It's time for action: Goals
+<p align="center"> <h3> It's time for action: Goals </h3> </p>
 
-#### After the introduction about Tokens in the previous info item, we´ll now find out how to use Goals, how to create them and what the different options are.
+<p align="center"> <h3> After the introduction about Tokens in the previous info item, we´ll now find out how to use Goals, how to create them and what the different options are. </h3></p>
 
 As leaders, managers or admins, we can define two useful actions within BonusBank: **Goals**. These are tools available through the app's floating button (via the "Define" option) that allow us to make our **Teams participate in the transfer decisions of Tokens**, and help us **set common objectives**.
 
@@ -43,17 +43,17 @@ Now, we explain graphically and intuitively **how** you **can define a Goal** wi
 
 The way to access this option is **through the side menu** of the app or via the **floating button** and choosing the "**Define**" option; once there it's as simple as **selecting** the option "**goal**" and then you get to a screen where, in case no Goal has been created (as in the examples we show below the explanation), it informs you that there are no Goals to show. **Above on the top right** you'll be able **to create** a Goal using the **"+" option.**
 
-<img src={require('./img/missionscreate.png').default} alt="drawing" width="500"/>
+<p align="center"><img src={require('./img/missionscreate.png').default} alt="drawing" width="500"/></p>
 
 Once you have defined a Goal, it will appear on the screen on the right where you can see it title, the details of **participants**, the **start and end dates** and its **progress** (number of received or sent tokens related to the set target). You can consult more information such as the latest transfers that are related to the Goal.
 
 Back to the creation process: you selected the **"+"** and automatically go to a screen in which we have to fill in a series of **fields**. Below you see a real case where you can see what information you can fill in in each field to define the Goal:
 
-<img src={require('./img/missionsedit.png').default} alt="drawing" width="300"/>
+<p align="center"><img src={require('./img/missionsedit.png').default} alt="drawing" width="300"/></p>
 
 First, we must define whether the Goal is going to be **for a specific Team or global** (that is, for the entire Space or company). Next, we assign a **title** and give a clear **description** of the Goal so that everyone can understand what it consists of. After completing these basic fields, it is time to add the details:
 
-<img src={require('./img/missionseditstep2.png').default} alt="drawing" width="500"/>
+<p align="center"><img src={require('./img/missionseditstep2.png').default} alt="drawing" width="500"/> </p>
 
 As can be seen, the next field you need to indicate what you **want to measure and have as an indicator** of the extent to which the Goal is being accomplished, choosing from three possibilities:
 

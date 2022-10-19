@@ -13,9 +13,9 @@ last_update:
 
 # Screen II: Balance
 
-## The second of the four main screens of BonusBank
+<p align="center"><h3> The second of the four main screens of BonusBank</h3></p>
 
-#### What is the BonusBank Balance? What can I find in it? How does it work? Keep reading and you will find the answer to these questions.
+<p align="center"><h4> What is the BonusBank Balance? What can I find in it? How does it work? Keep reading and you will find the answer to these questions.</h4></p>
 
 ### What is the Balance and what data do we find there?
 
@@ -35,7 +35,7 @@ Based on this definition **Leader Tokens** are visible in the balance, but **the
 
 To illustrate what was explained about the Balance and the behavior of the Tokens, we now show an example of how you can see your own Balance in the application and so we can describe in more detail its variables:
 
-<img src={require('./img/balancescreen.png').default} alt="drawing" width="250"/>
+<p align="center"><img src={require('./img/balancescreen.png').default} alt="drawing" width="250"/></p>
 
 As in the social feed, we have a carousel that allows you to switch between space and teams and see the balance at space and team level.
 
@@ -53,4 +53,4 @@ The **"+info"** button gives us **more** detail about the token itself (via a co
 
 Brilliant! We know everything about our balance, let's go to the Missions?
 
-<sup><sup>\* If you've wondered what logic is followed at the sample content level in the case of multiple active token packs, it's very simple: the token pack with the most leader tokens is above and in case of a tie we always see the pack with lower balance of tokens at the top.</sup></sup>
+<sup><sup>* If you've wondered what logic is followed at the sample content level in the case of multiple active token packs, it's very simple: the token pack with the most leader tokens is above and in case of a tie we always see the pack with lower balance of tokens at the top.</sup></sup>

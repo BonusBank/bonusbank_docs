@@ -14,7 +14,7 @@ last_update:
 
 # Introducing BonusBank
 
-## What is BonusBank?
+<h3> What is BonusBank? </h3>
 
 **BonusBank** is the solution for companies to **speed up feedback, recognition, incentives** and **rewards**. It is an important tool in **improving** the **employee experience**. It also **facilitates performance and talent management** thanks to the use of **Tokenization**.
 
@@ -59,4 +59,4 @@ You can currently find us both individually and as a company on the following pl
 
 Of course you can also get in touch with us in more "traditional" ways. On the web, but also on other platforms, you can find our **emails** and **telephone number** and we will be happy to help you.
 
-Now the time has come... It's time to discover the power of Tokenization!
+Now the time has come... **It's time to discover the power of Tokenization!**

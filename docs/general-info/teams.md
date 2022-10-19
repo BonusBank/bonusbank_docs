@@ -13,13 +13,17 @@ last_update:
 
 # The logic behind BonusBank Teams
 
-## After having talked about Spaces ... it´s time for Teams
+<p align="center"><h3> After having talked about Spaces ... it´s time for Teams</h3></p>
 
-#### **We’ll explain their function within a Space in BonusBank, as well as what they can represent and what we find within each one of them**
+<p align="center"><h4>We’ll explain their function within a Space in BonusBank, as well as what they can represent and what we find within each one of them </h4></p>
 
 ### What is is a team and what is it for
 
-> A team is a subspace for groups within a company (the space), and configured according to its criteria, with private access to information about its tokens, transfers or objectives (among others)
+:::note Teams
+
+A **team** is a **subspace** for groups within a **company** (the space), and configured according to its criteria, **with private access to information about its** tokens, transfers or objectives (among others)
+
+:::
 
 Let's explain the previous sentence in some detail and clarify the role of Teams in BonusBank:
 
@@ -35,6 +39,6 @@ Thus, we can see how the **creation of Teams** will allow us to have a **greater
 
 If you want to see the Team or Teams to which you belong, you can do so **through the side menu** of the application: both **directly by** selecting the option **"My Teams"**, as **indirectly by** selecting **"Space"** and within this screen hitting the number of Team(s). Below you´ll find a representation of the screens so you understand how to get there and what you can see inside the App:
 
-<img src={require('./img/bbteamsedit.png').default} alt="drawing" width="650"/>
+<p align="center"><img src={require('./img/bbteamsedit.png').default} alt="drawing" width="650"/></p>
 
 With this, we already know how to create an account in BonusBank, what is a Space and a Team, let's go on to discover the different roles within the App?

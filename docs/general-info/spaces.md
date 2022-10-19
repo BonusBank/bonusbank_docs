@@ -13,9 +13,9 @@ last_update:
 
 # The BonusBank Space
 
-## What is a Space and how does it work? How can we create one? What is the link between the Spaces and the different plans?
+<p align="center"><h3> What is a Space and how does it work? How can we create one? What is the link between the Spaces and the different plans? </h3></p>
 
-#### These are possibly some of the questions you may have, so let's start answering some of them?
+<p align="center"><h4> These are possibly some of the questions you may have, so let's start answering some of them?</h4></p>
 
 ### What is a Space and how does it work
 
@@ -23,7 +23,7 @@ last_update:
 
 If you have used tools such as: Slack, Teams or Discord, you will understand as it is similar. The **BonusBank Space is like a space in Slack and Teams or the server in Discord**.
 
-<img src={require('./img/spaceapps.png').default} alt="drawing" width="500"/>
+<p align="center"><img src={require('./img/spaceapps.png').default} alt="drawing" width="500"/></p>
 
 In other words, a **Space** is where **all the people linked to a company will converge** and which is **made up of different Teams**. It is a meeting point **where** all professionals (and their Teams) can get recognition, feel valued, **receive rewards and share common goals**. In essence (excluding exceptions below), a Space is your company within the BonusBank environment.
 
@@ -52,7 +52,7 @@ Just **complete 3 fields** (and only 1 of them is mandatory):
 
 3. **Image of the Space (optional)**. Again, totally optional information ... but more than recommended. Such small **details** will help **make BonusBank more welcoming** and make people feel it is "theirs". That is why you are free to show the logo of your company or the image that best represents the mission of the Space.
 
-<img src={require('./img/bbspaceedit.png').default} alt="drawing" width="500"/>
+<p align="center"><img src={require('./img/bbspaceedit.png').default} alt="drawing" width="500"/></p>
 
 And with this we created the "container" and are ready to fill it with content: teams, colleagues and employees, tokens, budgets, objectives. .. Wow! Let’s not go into this as it will be explained later on.
 

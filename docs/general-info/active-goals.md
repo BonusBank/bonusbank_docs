@@ -13,9 +13,9 @@ last_update:
 
 # Screen III: Active Goals
 
-## The third of the four main screens of BonusBank
+<p align="center"><h3> The third of the four main screens of BonusBank</h3></p>
 
-#### In the info item on Goals we have already explained what they are, how to create them and the different options that we will have within BonusBank; so let’s now focus on this screen, what’s on it and how you can see it. Let’s start!
+<p align="center"><h4> In the info item on Goals we have already explained what they are, how to create them and the different options that we will have within BonusBank; so let’s now focus on this screen, what’s on it and how you can see it. Let’s start!</h4></p>
 
 ### What is the Open Goals screen and what do we find on it?
 
@@ -31,7 +31,7 @@ Therefore, this screen provides us with a small management panel on our mobile p
 
 Let's first show you what the Active Goals screen looks like to the user, so you understand it more quickly:
 
-<img src={require('./img/activegoals.png').default} alt="drawing" width="250"/>
+<p align="center"><img src={require('./img/activegoals.png').default} alt="drawing" width="250"/></p>
 
 The view shown in this screenshot shows the **total of active Goals**; that is, all the Goals that have not yet finished both for the **Space**, and for all the **Teams** to which we belong.
 

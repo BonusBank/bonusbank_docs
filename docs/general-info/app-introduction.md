@@ -14,7 +14,9 @@ last_update:
 
 # Introduction to the BonusBank App
 
-### Hello! We welcome you to this info series where you will discover everything about BonusBank: from downloading the App, to all functionalities and how to become an authentic expert in Tokenization. Shall we begin?
+<p align="center">
+Hello! We welcome you to this info series where you will discover everything about BonusBank: from downloading the App, to all functionalities and how to become an authentic expert in Tokenization. Shall we begin?
+</p>
 
 ### What is BonusBank?
 
@@ -48,21 +50,30 @@ If you want to know more about the 3 types of feedback (Recognition, Reward and 
 
 Now that you know what BonusBank is for, we will explain what you need to do to access the App and the Dashboard.
 
-<img src={require('./img/app-overview.png').default} alt="drawing" width="400" text-align="center"/>
-
 ### The App
 
-As you have read before, the **BonusBank App** will be **available** for Android, **iOS** and as a **web version** (to also enjoy the application on PC).
-
-Below you will find the **links** to go directly to the **Play Store** (for Android) or to the **App Store** (for Apple iOS) and get the App on your phone or tablet in a matter of seconds!
-
-### [Access the Play Store (Android)](https://play.google.com/store/apps/details?id=com.bonusbank.bonusbank_app)
-
-### [Access the App Store (iOS)](https://apps.apple.com/us/app/bonusbank/id1578469644)
-
-<img src={require('./img/dashboard-overview.png').default} alt="drawing" width="400" text-align="center"/>
+<table class="invisibleTable">
+  <tr>
+    <td>
+      As you have read before, the <strong>BonusBank App</strong> will be <strong>available</strong> for Android, <strong>iOS</strong> and as a <strong>web version</strong> (to also enjoy the application on PC).
+      Below you will find the <strong>links</strong> to go directly to the <strong>Play Store</strong> (for Android) or to the <strong>App Store</strong> (for Apple iOS) and get the App on your phone or tablet in a matter of seconds!<br></br>
+      <a href="https://play.google.com/store/apps/details?id=com.bonusbank.bonusbank_app"><h3> Access the Play Store (Android)</h3></a><br></br>
+      <a href="https://apps.apple.com/us/app/bonusbank/id1578469644"><h3>Access the App Store (iOS)</h3></a>
+    </td>
+    <td>
+      <img src={require('./img/app-overview.png').default} alt="drawing" width="400" text-align="center"/>
+    </td>
+  </tr>
+</table>
 
 ### Dashboard
+
+<table class="invisibleTable">
+  <tr>
+    <td>
+    <img src={require('./img/dashboard-overview.png').default} alt="drawing" width="400" text-align="center"/>
+    </td>
+    <td>
 
 To access the **dashboard** of BonusBank, you must meet two conditions:
 
@@ -70,3 +81,8 @@ To access the **dashboard** of BonusBank, you must meet two conditions:
 2. You are a manager or have a managerial position within the company
 
 If so, you are almost able to enjoy the full experience. Unfortunately, the dashboard is **not available to everyone** as it reflects user stats (unique to each organization) that not everyone will access to. **Discover your role** and we'll let you know if you can enjoy the management panel!
+
+</td>
+
+  </tr>
+</table>
