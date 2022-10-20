@@ -1,5 +1,5 @@
 ---
-sidebar_position: 12
+sidebar_position: 3
 id: active-goals
 title: Active Goals
 description: Check your active goals.
@@ -13,9 +13,7 @@ last_update:
 
 # Screen III: Active Goals
 
-<p align="center"><h3> The third of the four main screens of BonusBank</h3></p>
-
-<p align="center"><h4> In the info item on Goals we have already explained what they are, how to create them and the different options that we will have within BonusBank; so let’s now focus on this screen, what’s on it and how you can see it. Let’s start!</h4></p>
+<p align="center"> In the info item on Goals we have already explained what they are, how to create them and the different options that we will have within BonusBank; so let’s now focus on this screen, what’s on it and how you can see it. Let’s start!</p>
 
 ### What is the Open Goals screen and what do we find on it?
 

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 8
+sidebar_position: 7
 id: general-transfers
 title: Transfers
 description: How can you transfer tokens?
@@ -11,11 +11,9 @@ last_update:
   date: 10/14/2022
 ---
 
-# Let's Act IV: Transfers
+# Transfers
 
-<p align="center"><h3> It's time for the fourth action: the Transfers </h3></p>
-
-<p align="center"><h4> This is the last type of action. Find out which Transfers can be made, how we can do them or what the possible restrictions are. </h4></p>
+<p align="center"> This is the last type of action. Find out which Transfers can be made, how we can do them or what the possible restrictions are. </p>
 
 ## What types of transfers exist?
 

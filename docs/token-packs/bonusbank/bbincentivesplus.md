@@ -1,7 +1,7 @@
 ---
 sidebar_position: 5
 id: bb-incentives-plus
-title: BB INCENTIVES PLUS
+title: Incentives Plus
 description: Use these tokens for special incentives.
 keywords:
   - special
@@ -11,45 +11,117 @@ last_update:
   date: 10/19/2022
 ---
 
-# BB INCENTIVES PLUS
+# Incentives Plus
 
 Use these tokens for special incentives like stock options, phantom shares and the ability to donate to favorite charities.
 
 ## Rewards
 
-Giving a reward, prize or other mark of recognition in honor of a person's achievement or performance
+Giving a reward, prize or other mark of recognition in honor of a person's achievement or performance.
 
-## CSR
-
-Enhance and fulfil your organization's social responsibility goal: donations, solidarity initiatives, equality, etc.
-
-# Plus
+### Plus
 
 Token exchangeable for something special, such as: prizes, days off, trainings, remote work days... And much more!
 
-# Ownership
-
-Token exchangeable for a possible future share of the company's capital
-
-# Phantoms
-
-The value of the Tokens track the value of shares. Reward talent with phantom Tokens instead of a phantom share.
-
-# Fundraising
-
-Organize solidarity activities to fund community projects with the proceeds
-
-# Donation
-
-Make donations to support various causes: NGOs, soup kitchens, citizens' platforms....
-
-### Basic Configuration
+<h4> Basic Configuration </h4>
 
 - Social view: true
 - Anonymous transfers: false
 - Token Value: 0.5€
 
-### Rubriks:
+<h4>Rubriks:</h4>
+
+- 1⭐ - 🤨​ Please start!
+- 2⭐ - 🙄​ Room for improvement
+- 3⭐ - 🙌🏼​ Getting there
+- 4⭐ - 🤩​ Great
+- 5⭐ - 💯​ Master!
+
+### Ownership
+
+Token exchangeable for a possible future share of the company's capital.
+
+<h4> Basic Configuration </h4>
+
+- Social view: true
+- Anonymous transfers: false
+- Token Value: 0.5€
+
+<h4>Rubriks:</h4>
+
+- 1⭐ - 🤨​ Please start!
+- 2⭐ - 🙄​ Room for improvement
+- 3⭐ - 🙌🏼​ Getting there
+- 4⭐ - 🤩​ Great
+- 5⭐ - 💯​ Master!
+
+### Phantoms
+
+The value of the Tokens track the value of shares. Reward talent with phantom Tokens instead of a phantom share.
+
+<h4> Basic Configuration </h4>
+
+- Social view: true
+- Anonymous transfers: false
+- Token Value: 0.5€
+
+<h4>Rubriks:</h4>
+
+- 1⭐ - 🤨​ Please start!
+- 2⭐ - 🙄​ Room for improvement
+- 3⭐ - 🙌🏼​ Getting there
+- 4⭐ - 🤩​ Great
+- 5⭐ - 💯​ Master!
+
+<br></br>
+
+## CSR
+
+Enhance and fulfil your organization's social responsibility goal: donations, solidarity initiatives, equality, etc.
+
+<h4> Basic Configuration </h4>
+
+- Social view: true
+- Anonymous transfers: false
+- Token Value: 0.5€
+
+<h4>Rubriks:</h4>
+
+- 1⭐ - 🤨​ Please start!
+- 2⭐ - 🙄​ Room for improvement
+- 3⭐ - 🙌🏼​ Getting there
+- 4⭐ - 🤩​ Great
+- 5⭐ - 💯​ Master!
+
+### Fundraising
+
+Organize solidarity activities to fund community projects with the proceeds
+
+<h4> Basic Configuration </h4>
+
+- Social view: true
+- Anonymous transfers: false
+- Token Value: 0.5€
+
+<h4>Rubriks:</h4>
+
+- 1⭐ - 🤨​ Please start!
+- 2⭐ - 🙄​ Room for improvement
+- 3⭐ - 🙌🏼​ Getting there
+- 4⭐ - 🤩​ Great
+- 5⭐ - 💯​ Master!
+
+### Donation
+
+Make donations to support various causes: NGOs, soup kitchens, citizens' platforms....
+
+<h4> Basic Configuration </h4>
+
+- Social view: true
+- Anonymous transfers: false
+- Token Value: 0.5€
+
+<h4>Rubriks:</h4>
 
 - 1⭐ - 🤨​ Please start!
 - 2⭐ - 🙄​ Room for improvement

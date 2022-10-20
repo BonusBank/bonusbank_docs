@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 id: bb-impulse
-title: BB IMPULSE
+title: Impulse
 description: Reward effort, attitude and good work.
 keywords:
   - token pack
@@ -11,7 +11,7 @@ last_update:
   date: 10/19/2022
 ---
 
-# BB IMPULSE
+# Impulse
 
 Reward effort, attitude and good work instantly with tokens that turn into real money regularly or when targets are met.
 
@@ -19,49 +19,17 @@ Reward effort, attitude and good work instantly with tokens that turn into real 
 
 Making things happen. When teams need to implement a solution, they look for people with execution skills who will work tirelessly to accomplish the goal.
 
-## Bonifications
-
-Giving a bonus as recognition in honor of a result, responsable action, effort, productivity or performance.
-
 ### Compliance
 
 Following instructions, orders, rules or requests diligently and in a positive way
 
-### Responsibility
-
-Feeling accountable and a strong duty towards your team and the goals
-
-### Punctuatlity
-
-Having the habit of being on time
-
-### Initiative
-
-Doing things without being told. Acting, instead of reacting
-
-### Time Management
-
-Having the ability to use your time effectively and productively
-
-### Productivity
-
-Getting the job done efficiently and effectively
-
-### Cleanliness
-
-Keeping yourself and your surroundings clean
-
-### Bonus
-
-Token redeemable for future cash, as a payroll supplement
-
-#### Basic Configuration
+<h4> Basic Configuration </h4>
 
 - Social view: true
 - Anonymous transfers: false
 - Token Value: 0.5€
 
-#### Rubriks:
+<h4> Rubriks: </h4>
 
 - 1⭐ - 🤨​ Please start!
 - 2⭐ - 🙄​ Room for improvement
@@ -69,6 +37,134 @@ Token redeemable for future cash, as a payroll supplement
 - 4⭐ - 🤩​ Great
 - 5⭐ - 💯​ Master!
 
-<hr></hr>
+### Responsibility
 
+Feeling accountable and a strong duty towards your team and the goals
 
+<h4> Basic Configuration </h4>
+
+- Social view: true
+- Anonymous transfers: false
+- Token Value: 0.5€
+
+<h4> Rubriks: </h4>
+
+- 1⭐ - 🤨​ Please start!
+- 2⭐ - 🙄​ Room for improvement
+- 3⭐ - 🙌🏼​ Getting there
+- 4⭐ - 🤩​ Great
+- 5⭐ - 💯​ Master!
+
+### Punctuatlity
+
+Having the habit of being on time
+
+<h4> Basic Configuration </h4>
+
+- Social view: true
+- Anonymous transfers: false
+- Token Value: 0.5€
+
+<h4> Rubriks: </h4>
+
+- 1⭐ - 🤨​ Please start!
+- 2⭐ - 🙄​ Room for improvement
+- 3⭐ - 🙌🏼​ Getting there
+- 4⭐ - 🤩​ Great
+- 5⭐ - 💯​ Master!
+
+### Initiative
+
+Doing things without being told. Acting, instead of reacting
+
+<h4> Basic Configuration </h4>
+
+- Social view: true
+- Anonymous transfers: false
+- Token Value: 0.5€
+
+<h4> Rubriks: </h4>
+
+- 1⭐ - 🤨​ Please start!
+- 2⭐ - 🙄​ Room for improvement
+- 3⭐ - 🙌🏼​ Getting there
+- 4⭐ - 🤩​ Great
+- 5⭐ - 💯​ Master!
+
+### Time Management
+
+Having the ability to use your time effectively and productively
+
+<h4> Basic Configuration </h4>
+
+- Social view: true
+- Anonymous transfers: false
+- Token Value: 0.5€
+
+<h4> Rubriks: </h4>
+
+- 1⭐ - 🤨​ Please start!
+- 2⭐ - 🙄​ Room for improvement
+- 3⭐ - 🙌🏼​ Getting there
+- 4⭐ - 🤩​ Great
+- 5⭐ - 💯​ Master!
+
+### Productivity
+
+Getting the job done efficiently and effectively
+
+<h4> Basic Configuration </h4>
+
+- Social view: true
+- Anonymous transfers: false
+- Token Value: 0.5€
+
+<h4> Rubriks: </h4>
+
+- 1⭐ - 🤨​ Please start!
+- 2⭐ - 🙄​ Room for improvement
+- 3⭐ - 🙌🏼​ Getting there
+- 4⭐ - 🤩​ Great
+- 5⭐ - 💯​ Master!
+
+### Cleanliness
+
+Keeping yourself and your surroundings clean
+
+<h4> Basic Configuration </h4>
+
+- Social view: true
+- Anonymous transfers: false
+- Token Value: 0.5€
+
+<h4> Rubriks: </h4>
+
+- 1⭐ - 🤨​ Please start!
+- 2⭐ - 🙄​ Room for improvement
+- 3⭐ - 🙌🏼​ Getting there
+- 4⭐ - 🤩​ Great
+- 5⭐ - 💯​ Master!
+
+<br></br>
+
+## Bonifications
+
+Giving a bonus as recognition in honor of a result, responsable action, effort, productivity or performance.
+
+### Bonus
+
+Token redeemable for future cash, as a payroll supplement
+
+<h4> Basic Configuration </h4>
+
+- Social view: true
+- Anonymous transfers: false
+- Token Value: 0.5€
+
+<h4> Rubriks: </h4>
+
+- 1⭐ - 🤨​ Please start!
+- 2⭐ - 🙄​ Room for improvement
+- 3⭐ - 🙌🏼​ Getting there
+- 4⭐ - 🤩​ Great
+- 5⭐ - 💯​ Master!

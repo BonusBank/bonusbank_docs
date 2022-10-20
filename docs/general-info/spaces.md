@@ -13,9 +13,7 @@ last_update:
 
 # The BonusBank Space
 
-<p align="center"><h3> What is a Space and how does it work? How can we create one? What is the link between the Spaces and the different plans? </h3></p>
-
-<p align="center"><h4> These are possibly some of the questions you may have, so let's start answering some of them?</h4></p>
+<p align="center">These are possibly some of the questions you may have, so let's start answering some of them?</p>
 
 ### What is a Space and how does it work
 
@@ -42,7 +40,7 @@ These are just some examples and **each company has total freedom to have as man
 
 ### How to create a Space
 
-Let's put theory aside and **go back to practice**. Do you remember the end of the [second info item?](https://docs.bonusbank.eu/books/app-documentation/page/how-to-create-a-bonusbank-account) We almost **created a Space** and this is as simple (or even easier) as creating our own account.
+Let's put theory aside and **go back to practice**. Do you remember the end of the [second info item?](./accounts.md) We almost **created a Space** and this is as simple (or even easier) as creating our own account.
 
 Just **complete 3 fields** (and only 1 of them is mandatory):
 

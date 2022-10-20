@@ -1,5 +1,5 @@
 ---
-sidebar_position: 11
+sidebar_position: 9
 id: general-social-feed
 title: Social Feed
 description: The social feed shows us al transfers of Tokens.
@@ -11,11 +11,9 @@ last_update:
   date: 10/14/2022
 ---
 
-# Screen 1: Social Feed
+# Social Feed
 
-<p align="center"> <h3> The first of the four main BonusBank screens</h3></p>
-
-<p align="center"> <h4> What is the BonusBank Social Feed? What can I find in it? How does it work? Keep reading and you'll find the answers to these questions. </h4> </p>
+<p align="center">  What is the BonusBank Social Feed? What can I find in it? How does it work? Keep reading and you'll find the answers to these questions. </p>
 
 ### What is the Social Feed and what do we find in it
 
@@ -27,7 +25,7 @@ This screen shows us all **transfers** of Tokens, in both the **Space** and the 
 - **From our colleagues to us.**
 - **Between our colleagues.**
 
-These Token transfers are displayed only in the Social Feed because the senders answered "Yes" to the question "Should the message be public?" and that's why we get to see this recognition, bonus and/or challenge and of course we also see the public ones where we are involved in ourselves. We can also see the details by simply selecting the transaction, and we can review and optionally “like” the feedback provided or the reason for the transfer.
+These Token transfers are displayed only in the Social Feed because the senders answered "Yes" to the question "Should the message be public?" and that's why we get to see this recognition or bonus and of course we also see the public ones where we are involved in ourselves. We can also see the details by simply selecting the transaction, and we can review and optionally “like” the feedback provided or the reason for the transfer.
 
 ### How the social feed works
 
@@ -44,5 +42,7 @@ You can also see how each transaction uses a different verb for the action betwe
 Finally, we can see **a heart to the right of every transaction**. As this is a Social Feed, we are looking for the maximum possible interaction between users. Therefore, **you can "like"** the token transactions or texts that appeal to you the most.
 
 Finally, when you select a transaction you find **more details** about it: the **date** it was **sent**, the **full message** if it is too long to display in the feed and the **last transactions** that involved participants in the selected transaction. Also, if we select the photos or names of the users, we can see the profile of the members with the data they published in the app (we talk about that in the info item of the profile).
+
+<p align="center"><img src={require('./img/bbnotification.png').default} alt="drawing" width="400" text-align="center"/></p>
 
 Now that you know many details about the social feed, shall we go to the Balance screen?

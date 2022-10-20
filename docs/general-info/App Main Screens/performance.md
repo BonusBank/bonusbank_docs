@@ -1,5 +1,5 @@
 ---
-sidebar_position: 10
+sidebar_position: 2
 id: general-performance
 title: Performance
 description: Check your stats and performance.
@@ -11,11 +11,9 @@ last_update:
   date: 10/19/2022
 ---
 
-# Performance
+# Screen II: Performance
 
-<p align="center"><h3> The second of the four main screens of BonusBank</h3></p>
-
-<p align="center"><h4> What is the BonusBank Performance? What can I find in it? How does it work? Keep reading and you will find the answer to these questions.</h4></p>
+<p align="center"> What is the BonusBank Performance? What can I find in it? How does it work? Keep reading and you will find the answer to these questions.</p>
 
 ### What is the Performance and what data do we find there?
 
@@ -35,7 +33,7 @@ Based on this definition **Leader Tokens** are visible in the Performance, but *
 
 To illustrate what was explained about the Performance and the behavior of the Tokens, we now show an example of how you can see your own Performance in the application and so we can describe in more detail its variables:
 
-<p align="center"><img src={require('./img/balancescreen.png').default} alt="drawing" width="250"/></p>
+<p align="center"><img src={require('./img/bbperformance.png').default} alt="drawing" width="250"/></p>
 
 As in the social feed, we have a carousel that allows you to switch between space and teams and see the Performance at space and team level.
 

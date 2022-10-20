@@ -1,5 +1,5 @@
 ---
-sidebar_position: 9
+sidebar_position: 1
 id: general-balance
 title: Balance
 description: How tokens and balance work.
@@ -11,11 +11,9 @@ last_update:
   date: 10/14/2022
 ---
 
-# Screen II: Balance
+# Screen I: Balance
 
-<p align="center"><h3> The second of the four main screens of BonusBank</h3></p>
-
-<p align="center"><h4> What is the BonusBank Balance? What can I find in it? How does it work? Keep reading and you will find the answer to these questions.</h4></p>
+<p align="center"> What is the BonusBank Balance? What can I find in it? How does it work? Keep reading and you will find the answer to these questions.</p>
 
 ### What is the Balance and what data do we find there?
 
@@ -37,7 +35,11 @@ To illustrate what was explained about the Balance and the behavior of the Token
 
 <p align="center"><img src={require('./img/balancescreen.png').default} alt="drawing" width="250"/></p>
 
-As in the social feed, we have a carousel that allows you to switch between space and teams and see the balance at space and team level.
+If you look at the top of the screen, you'll see a slider which allows you to select between two options:
+
+- **Paid**. In this section you will find the tokens you have **recieved** and are already **confirmed and payed**.
+
+- **Rewarded**. Here there are the tokens that have been sended to you, but **haven't yet been approved** by your plan manager.
 
 As you can see, there are different types of tokens that are grouped by Token Pack; so if we have multiple token packs, the token types from those different packs will not be mixed up.
 
@@ -51,6 +53,8 @@ For each available token , there are two variables visible in the global balance
 
 The **"+info"** button gives us **more** detail about the token itself (via a complete description), by whom and to whom it can be transfered, the limit (if any), etc.
 
-Brilliant! We know everything about our balance, let's go to the Missions?
+<p align="center"><img src={require('./img/bbpopup.png').default} alt="drawing" width="250"/></p>
 
-<sup><sup>* If you've wondered what logic is followed at the sample content level in the case of multiple active token packs, it's very simple: the token pack with the most leader tokens is above and in case of a tie we always see the pack with lower balance of tokens at the top.</sup></sup>
+Brilliant! We know everything about our balance, let's go to the Targets?
+
+<sup><sup>\* If you've wondered what logic is followed at the sample content level in the case of multiple active token packs, it's very simple: the token pack with the most leader tokens is above and in case of a tie we always see the pack with lower balance of tokens at the top.</sup></sup>
