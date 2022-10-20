@@ -48,6 +48,7 @@ Now that you know what BonusBank is for, we will explain what you need to do to 
 
 ### The App
 
+<p align="center" class="invisible-image" ><img  src={require('./general-info/img/app-overview.png').default} alt="drawing" width="200"/></p>
 <table class="invisibleTable">
   <tr>
     <td>
@@ -57,31 +58,25 @@ Now that you know what BonusBank is for, we will explain what you need to do to 
       <a href="https://apps.apple.com/us/app/bonusbank/id1578469644"><h3>Access the App Store (iOS)</h3></a>
     </td>
     <td>
-      <img src={require('./general-info/img/app-overview.png').default} alt="drawing" width="200" text-align="center"/>
+      <p align="center"><img src={require('./general-info/img/app-overview.png').default} alt="drawing" width="200" text-align="center"/></p>
     </td>
-
   </tr>
 </table>
 
 ### Dashboard
 
+<p align="center" class="invisible-image" ><img src={require('./general-info/img/dashboard-overview.png').default} alt="drawing" width="400" text-align="center"/></p>
 <table class="invisibleTable">
   <tr>
     <td>
-    <img src={require('./general-info/img/dashboard-overview.png').default} alt="drawing" width="400" text-align="center"/>
+    To access the <strong>dashboard</strong> of BonusBank, you must meet two conditions:
+      1. Your organization has an agreement with BonusBank
+      2. You are a manager or have a managerial position within the company
+      If so, you are almost able to enjoy the full experience. Unfortunately, the dashboard is <strong>not available to everyone</strong> as it reflects user stats (unique to each organization) that not everyone will access to. <strong>Discover your role</strong> and we'll let you know if you can enjoy the management panel!
+      <a href="https://dash.bonusbank.eu"><h3>Access the Dashboard</h3></a>
     </td>
     <td>
-
-To access the **dashboard** of BonusBank, you must meet two conditions:
-
-1. Your organization has an agreement with BonusBank
-2. You are a manager or have a managerial position within the company
-
-If so, you are almost able to enjoy the full experience. Unfortunately, the dashboard is **not available to everyone** as it reflects user stats (unique to each organization) that not everyone will access to. **Discover your role** and we'll let you know if you can enjoy the management panel!
-
-<a href="https://dash.bonusbank.eu"><h3>Access the Dashboard</h3></a>
-
-</td>
-
+      <img src={require('./general-info/img/dashboard-overview.png').default} alt="drawing" width="400" text-align="center"/>
+    </td>
   </tr>
 </table>

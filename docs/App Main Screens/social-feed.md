@@ -1,5 +1,5 @@
 ---
-sidebar_position: 9
+sidebar_position: 5
 id: general-social-feed
 title: Social Feed
 description: The social feed shows us al transfers of Tokens.

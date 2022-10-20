@@ -46,3 +46,26 @@ table.invisibleTable td {
 table.invisibleTable tr {
   border: none !important;
 }
+
+.invisible-image {
+  display: none;
+}
+
+@media only screen and (max-width: 996px) {
+  table.invisibleTable td {
+    border: none !important;
+    width: 100%;
+  }
+
+  .invisible-image{
+    display: block;
+  }
+}
+
+.tick {
+  color: #40d685;
+}
+
+.cross {
+  color:red;
+}

@@ -51,7 +51,7 @@ The **"+info"** button gives us **more** detail about the token itself (via a co
 
 <p align="center">
 <video controls width="300">
-          <source src="/performance-analysis.mp4" />
+          <source src={required('/performance-analysis.mp4').default} />
         </video>
         </p>
 

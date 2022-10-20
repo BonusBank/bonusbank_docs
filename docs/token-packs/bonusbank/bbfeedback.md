@@ -27,7 +27,6 @@ Having and showing a lively interest for the team, tasks and goals.
 
 - Social view: true
 - Anonymous transfers: false
-- Token Value: 0.5€
 
 <h4> Rubriks </h4>
 
@@ -45,7 +44,6 @@ A positive body language and an appropriate look.
 
 - Social view: true
 - Anonymous transfers: false
-- Token Value: 0.5€
 
 <h4> Rubriks </h4>
 
@@ -63,7 +61,6 @@ Having a modest view of your own importance.
 
 - Social view: true
 - Anonymous transfers: false
-- Token Value: 0.5€
 
 <h4> Rubriks </h4>
 
@@ -81,7 +78,6 @@ A good listener who conveys a message thoroughly and is receptive and responsive
 
 - Social view: true
 - Anonymous transfers: false
-- Token Value: 0.5€
 
 <h4> Rubriks </h4>
 
@@ -99,7 +95,6 @@ Believing in the reliability, truth or ability of others.
 
 - Social view: true
 - Anonymous transfers: false
-- Token Value: 0.5€
 
 <h4> Rubriks </h4>
 
@@ -123,7 +118,6 @@ Being kind, helpful or affectionate.
 
 - Social view: true
 - Anonymous transfers: false
-- Token Value: 0.5€
 
 <h4> Rubriks </h4>
 
@@ -141,7 +135,6 @@ Showing due regard for the ideas, feelings, wishes, or rights of others.
 
 - Social view: true
 - Anonymous transfers: false
-- Token Value: 0.5€
 
 <h4> Rubriks </h4>
 
@@ -159,7 +152,6 @@ Treating people equal, especially in status, rights, or opportunities.
 
 - Social view: true
 - Anonymous transfers: false
-- Token Value: 0.5€
 
 <h4> Rubriks </h4>
 
@@ -177,7 +169,6 @@ Telling the truth, not trying to deceive people or break the law.
 
 - Social view: true
 - Anonymous transfers: false
-- Token Value: 0.5€
 
 <h4> Rubriks </h4>
 
@@ -195,7 +186,6 @@ Having the abilities to work effectively in an organized group.
 
 - Social view: true
 - Anonymous transfers: false
-- Token Value: 0.5€
 
 <h4> Rubriks </h4>
 
@@ -220,7 +210,6 @@ Able to determine why an issue is happening and how to resolve it.
 
 - Social view: true
 - Anonymous transfers: false
-- Token Value: 0.5€
 
 <h4> Rubriks </h4>
 
@@ -238,7 +227,6 @@ Anticipating and controlling a situation rather than just responding to it after
 
 - Social view: true
 - Anonymous transfers: false
-- Token Value: 0.5€
 
 <h4> Rubriks </h4>
 
@@ -256,7 +244,6 @@ Thinking before doing and deciding in advance what needs to be done.
 
 - Social view: true
 - Anonymous transfers: false
-- Token Value: 0.5€
 
 <h4> Rubriks </h4>
 
@@ -274,7 +261,6 @@ Willing to consider new ideas and being unprejudiced.
 
 - Social view: true
 - Anonymous transfers: false
-- Token Value: 0.5€
 
 <h4> Rubriks </h4>
 
@@ -292,7 +278,6 @@ Using imagination or original ideas to create something.
 
 - Social view: true
 - Anonymous transfers: false
-- Token Value: 0.5€
 
 <h4> Rubriks </h4>
 

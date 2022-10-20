@@ -27,7 +27,6 @@ Following instructions, orders, rules or requests diligently and in a positive w
 
 - Social view: true
 - Anonymous transfers: false
-- Token Value: 0.5€
 
 <h4> Rubriks: </h4>
 
@@ -45,7 +44,6 @@ Feeling accountable and a strong duty towards your team and the goals
 
 - Social view: true
 - Anonymous transfers: false
-- Token Value: 0.5€
 
 <h4> Rubriks: </h4>
 
@@ -63,7 +61,6 @@ Having the habit of being on time
 
 - Social view: true
 - Anonymous transfers: false
-- Token Value: 0.5€
 
 <h4> Rubriks: </h4>
 
@@ -81,7 +78,6 @@ Doing things without being told. Acting, instead of reacting
 
 - Social view: true
 - Anonymous transfers: false
-- Token Value: 0.5€
 
 <h4> Rubriks: </h4>
 
@@ -99,7 +95,6 @@ Having the ability to use your time effectively and productively
 
 - Social view: true
 - Anonymous transfers: false
-- Token Value: 0.5€
 
 <h4> Rubriks: </h4>
 
@@ -117,7 +112,6 @@ Getting the job done efficiently and effectively
 
 - Social view: true
 - Anonymous transfers: false
-- Token Value: 0.5€
 
 <h4> Rubriks: </h4>
 
@@ -135,7 +129,6 @@ Keeping yourself and your surroundings clean
 
 - Social view: true
 - Anonymous transfers: false
-- Token Value: 0.5€
 
 <h4> Rubriks: </h4>
 
@@ -157,14 +150,6 @@ Token redeemable for future cash, as a payroll supplement
 
 <h4> Basic Configuration </h4>
 
-- Social view: true
+- Social view: false
 - Anonymous transfers: false
-- Token Value: 0.5€
-
-<h4> Rubriks: </h4>
-
-- 1⭐ - 🤨​ Please start!
-- 2⭐ - 🙄​ Room for improvement
-- 3⭐ - 🙌🏼​ Getting there
-- 4⭐ - 🤩​ Great
-- 5⭐ - 💯​ Master!
+- Token Value: 1€

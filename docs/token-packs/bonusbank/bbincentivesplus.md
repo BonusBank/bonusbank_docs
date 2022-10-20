@@ -25,17 +25,9 @@ Token exchangeable for something special, such as: prizes, days off, trainings, 
 
 <h4> Basic Configuration </h4>
 
-- Social view: true
+- Social view: false
 - Anonymous transfers: false
-- Token Value: 0.5€
-
-<h4>Rubriks:</h4>
-
-- 1⭐ - 🤨​ Please start!
-- 2⭐ - 🙄​ Room for improvement
-- 3⭐ - 🙌🏼​ Getting there
-- 4⭐ - 🤩​ Great
-- 5⭐ - 💯​ Master!
+- Token Value: N/A
 
 ### Ownership
 
@@ -43,17 +35,9 @@ Token exchangeable for a possible future share of the company's capital.
 
 <h4> Basic Configuration </h4>
 
-- Social view: true
+- Social view: false
 - Anonymous transfers: false
-- Token Value: 0.5€
-
-<h4>Rubriks:</h4>
-
-- 1⭐ - 🤨​ Please start!
-- 2⭐ - 🙄​ Room for improvement
-- 3⭐ - 🙌🏼​ Getting there
-- 4⭐ - 🤩​ Great
-- 5⭐ - 💯​ Master!
+- Token Value: N/A
 
 ### Phantoms
 
@@ -61,17 +45,9 @@ The value of the Tokens track the value of shares. Reward talent with phantom To
 
 <h4> Basic Configuration </h4>
 
-- Social view: true
+- Social view: false
 - Anonymous transfers: false
-- Token Value: 0.5€
-
-<h4>Rubriks:</h4>
-
-- 1⭐ - 🤨​ Please start!
-- 2⭐ - 🙄​ Room for improvement
-- 3⭐ - 🙌🏼​ Getting there
-- 4⭐ - 🤩​ Great
-- 5⭐ - 💯​ Master!
+- Token Value: N/A
 
 <br></br>
 
@@ -79,29 +55,14 @@ The value of the Tokens track the value of shares. Reward talent with phantom To
 
 Enhance and fulfil your organization's social responsibility goal: donations, solidarity initiatives, equality, etc.
 
-<h4> Basic Configuration </h4>
-
-- Social view: true
-- Anonymous transfers: false
-- Token Value: 0.5€
-
-<h4>Rubriks:</h4>
-
-- 1⭐ - 🤨​ Please start!
-- 2⭐ - 🙄​ Room for improvement
-- 3⭐ - 🙌🏼​ Getting there
-- 4⭐ - 🤩​ Great
-- 5⭐ - 💯​ Master!
-
 ### Fundraising
 
 Organize solidarity activities to fund community projects with the proceeds
 
 <h4> Basic Configuration </h4>
 
-- Social view: true
+- Social view: false
 - Anonymous transfers: false
-- Token Value: 0.5€
 
 <h4>Rubriks:</h4>
 
@@ -117,9 +78,8 @@ Make donations to support various causes: NGOs, soup kitchens, citizens' platfor
 
 <h4> Basic Configuration </h4>
 
-- Social view: true
+- Social view: false
 - Anonymous transfers: false
-- Token Value: 0.5€
 
 <h4>Rubriks:</h4>
 

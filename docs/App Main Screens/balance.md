@@ -57,4 +57,4 @@ The **"+info"** button gives us **more** detail about the token itself (via a co
 
 Brilliant! We know everything about our balance, let's go to the Targets?
 
-<sup><sup>\* If you've wondered what logic is followed at the sample content level in the case of multiple active token packs, it's very simple: the token pack with the most leader tokens is above and in case of a tie we always see the pack with lower balance of tokens at the top.</sup></sup>
+<sup><sup>* If you've wondered what logic is followed at the sample content level in the case of multiple active token packs, it's very simple: the token pack with the most leader tokens is above and in case of a tie we always see the pack with lower balance of tokens at the top.</sup></sup>
