@@ -11,9 +11,15 @@ last_update:
   date: 10/14/2022
 ---
 
+import ReactPlayer from "react-player";
+
 # Transfers
 
-<p align="center"> This is the last type of action. Find out which Transfers can be made, how we can do them or what the possible restrictions are. </p>
+<p align="center">
+  {" "}
+  This is the last type of action. Find out which Transfers can be made, how we can
+  do them or what the possible restrictions are.{" "}
+</p>
 
 ## What types of transfers exist?
 
@@ -53,24 +59,58 @@ The way to access this option is **via the floating button** that appears on the
 
 Now that we have reached a choice, let’s start with Recognition and Reward because they work the same way but do not feature the same type of tokens (Soft tokens for recognition and hard tokens for rewards).
 
-<p align="center"><img src={require('./img/transfersselect.png').default} alt="drawing" width="650"/></p>
+<p align="center">
+  <img
+    src={require("./img/transfersselect.png").default}
+    alt="drawing"
+    width="650"
+  />
+</p>
 
 Here we show a real case with the information that needed to complete each field in order to send a Reward within BonusBank:
 
-<p align="center"><img src={require('./img/transfersschedule.png').default} alt="drawing" width="300"/></p>
+<p align="center">
+  <img
+    src={require("./img/transfersschedule.png").default}
+    alt="drawing"
+    width="300"
+  />
+</p>
 
 The first step is to **choose the member(s)** that should receive the token that we want to transfer. We may want to check the total number of tokens available to send. In the example image, there are 3 tokens that can be sent as a leader (our role as a leader can be identified by the blue circle around the photo and the text between brackets next to the token type). In case you are not a leader but only a member, you will see the available tokens that can be sent as a member.
 
 Once it is clear which token we want to send, all we have to do is click on the green **"Choose" button** and then we will go to the next screen.
 
-<p align="center"><img src={require('./img/transfersuser.png').default} alt="drawing" width="300"/></p>
+<p align="center">
+  <img
+    src={require("./img/transfersuser.png").default}
+    alt="drawing"
+    width="300"
+  />
+</p>
 
 In this example, we will choose Creativity Tokens (belonging to the Expertise type of the Initial Pack, which you can read more about in this info item).
 
-<p align="center"><img src={require('./img/transfersfinaldetails.png').default} alt="drawing" width="300"/></p>
+<p align="center">
+  <img
+    src={require("./img/transfersfinaldetails.png").default}
+    alt="drawing"
+    width="300"
+  />
+</p>
 
 It's time to decide **how many Tokens** we'll send and **to add a unique and personal message**. As a final step, we can **decide** whether the **transfer will be publicly** visible (this is only requested for certain types of Token, because many are always private). Don't forget to press the **"transfer tokens"** button. It's that simple!
 
-<p align="center"><img src={require('./img/transfersoverview.png').default} alt="drawing" width="650"/></p>
+<p align="center">
+  <video controls width="300">
+    <source src="/incentives-transfer.mp4" />
+  </video>
+  <span> </span>
+  <video controls width="300">
+    <source src="/feedback-transfer.mp4" />
+  </video>
+</p>
 
-And with these two types of Transfers, we close the chapter of the 4 BonusBank actions. Now it's time to talk about the 4 main screens of the app. They reflect the result of all actions.
+And with these two types of Transfers, we close the chapter of the 4 BonusBank actions.
+Now it's time to talk about the 4 main screens of the app. They reflect the result
+of all actions.

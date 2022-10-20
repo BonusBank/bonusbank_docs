@@ -49,6 +49,12 @@ For each available token , there are two variables visible in the global Perform
 
 The **"+info"** button gives us **more** detail about the token itself (via a complete description), by whom and to whom it can be transfered, the limit (if any), etc.
 
+<p align="center">
+<video controls width="300">
+          <source src="/performance-analysis.mp4" />
+        </video>
+        </p>
+
 Brilliant! We know everything about our Performance, let's go to the Missions?
 
 <sup><sup>\* If you've wondered what logic is followed at the sample content level in the case of multiple active token packs, it's very simple: the token pack with the most leader tokens is above and in case of a tie we always see the pack with lower Performance of tokens at the top.</sup></sup>
