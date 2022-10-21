@@ -12,12 +12,8 @@ last_update:
 ---
 
 # Targets
+> As leaders, managers or admins, we can define two useful actions within BonusBank: **Targets**. These are tools available through the app's floating button (via the "Define" option) that allow us to make our **Teams participate in the transfer decisions of Tokens**, and help us **set common objectives**.
 
-<p align="center">  After the introduction about Tokens in the previous info item, we´ll now find out how to use Targets, how to create them and what the different options are. </p>
-
-As leaders, managers or admins, we can define two useful actions within BonusBank: **Targets**. These are tools available through the app's floating button (via the "Define" option) that allow us to make our **Teams participate in the transfer decisions of Tokens**, and help us **set common objectives**.
-
-Below we explain in more detail what each of these actions consists of.
 
 ### What is a Target and why do we use it
 
