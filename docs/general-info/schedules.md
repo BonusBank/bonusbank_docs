@@ -23,7 +23,7 @@ A Plan has an **owner** (the manager), can be associated with a team and **will 
 There are two types of Plans:
 
 1. The **Recognition** plan. This type of plan is based on the feedback tokens. These tokens are meant to give feedback about the performance of a team or an employee and you can select various tokens for the plan from different feedback categories.
-2. The **Incentive** plan. This type of plan is based on the incentives token types. These tokens are different, because they can be exchanged by cash or prices. In this type of plan you will select a token and it's amount, both in unities and cash.
+2. The **Incentive** plan. This type of plan is based on the incentives token types. These **tokens** are different, because they can be **exchanged** by cash or prices. In this type of plan you will select a token and it's **amount**, both in unities and cash. Additionally, the Incentive plans needs to be **validated** by their manager once they have ended in order to check if the **condition** is accomplished. If the plan is valid, the tokens will be sent. Managers can also **deny** these plans if they think is necessary. Once the plan is confirmed and the tokens are sent, the manager will **confirm** the plan, as all tokens are sent.
 
 <p align="center"><img src={require('./img/plan-type.png').default} alt="drawing" width="800"/> </p>
 
@@ -41,7 +41,7 @@ Now that we have explained **WHAT** are the Plans, let's see **HOW** can we brin
 
 ### How Plans are made
 
-To create a new Plan, we go to the (+) button on top of the app, and we'll enter a form screen. Let's see step by step what information we need to provide:
+To create a new Plan, we have to go to the (+) button on top of the app, and we'll enter a form screen. Let's see step by step what information we need to provide:
 
 1. **Configure**
 
