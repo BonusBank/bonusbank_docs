@@ -50,10 +50,10 @@ For each available token , there are two variables visible in the global Perform
 The **"+info"** button gives us **more** detail about the token itself (via a complete description), by whom and to whom it can be transfered, the limit (if any), etc.
 
 <p align="center">
-<video controls width="300">
-          <source src={require('/performance-analysis.mp4').default} />
-        </video>
-        </p>
+  <video controls width="300">
+    <source src={require('/performance-analysis.mp4').default} />
+  </video>
+</p>
 
 Brilliant! We know everything about our Performance, let's go to the Missions?
 
