@@ -103,7 +103,7 @@ It's time to decide **how many Tokens** we'll send and **to add a unique and per
 
 <p align="center">
   <video controls width="300">
-    <source src={required('/incentives-transfer.mp4').default} />
+    <source src={require('/incentives-transfer.mp4').default} />
   </video>
   <span> </span>
   <video controls width="300">
