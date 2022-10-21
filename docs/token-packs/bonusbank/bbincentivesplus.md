@@ -63,14 +63,7 @@ Organize solidarity activities to fund community projects with the proceeds
 
 - Social view: false
 - Anonymous transfers: false
-
-<h4>Rubriks:</h4>
-
-- 1⭐ - 🤨​ Please start!
-- 2⭐ - 🙄​ Room for improvement
-- 3⭐ - 🙌🏼​ Getting there
-- 4⭐ - 🤩​ Great
-- 5⭐ - 💯​ Master!
+- Token Value: N/A
 
 ### Donation
 
@@ -80,11 +73,4 @@ Make donations to support various causes: NGOs, soup kitchens, citizens' platfor
 
 - Social view: false
 - Anonymous transfers: false
-
-<h4>Rubriks:</h4>
-
-- 1⭐ - 🤨​ Please start!
-- 2⭐ - 🙄​ Room for improvement
-- 3⭐ - 🙌🏼​ Getting there
-- 4⭐ - 🤩​ Great
-- 5⭐ - 💯​ Master!
+- Token Value: N/A
