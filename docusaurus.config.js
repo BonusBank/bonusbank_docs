@@ -42,7 +42,7 @@ const config = {
         blog: {
           showReadingTime: true,
           blogTitle: "News blog",
-          routeBasePath: '/news',
+          routeBasePath: 'news',
           blogDescription:
             "A blog to share all tips & tricks and latest changes to our products!",
           postsPerPage: "ALL",
