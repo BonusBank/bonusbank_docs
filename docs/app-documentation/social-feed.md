@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-id: general-social-feed
+id: app-social-feed
 title: Social Feed
 description: The social feed shows us al transfers of Tokens.
 keywords:

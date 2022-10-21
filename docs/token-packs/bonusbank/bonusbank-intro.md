@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-id: bonusbank-intro
+id: packs-bonusbank-intro
 title: Introduction
 description: Who and what is BonusBank?
 keywords:

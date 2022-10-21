@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-id: active-goals
+id: app-active-goals
 title: Active Goals
 description: Check your active goals.
 keywords:

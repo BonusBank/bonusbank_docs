@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-id: bb-incentives-plus
+id: packs-bb-incentives-plus
 title: Incentives Plus
 description: Use these tokens for special incentives.
 keywords:

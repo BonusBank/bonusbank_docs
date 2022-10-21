@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-id: general-performance
+id: app-performance
 title: Performance
 description: Check your stats and performance.
 keywords:

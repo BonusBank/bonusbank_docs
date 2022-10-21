@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-id: general-balance
+id: app-balance
 title: Balance
 description: How tokens and balance work.
 keywords:

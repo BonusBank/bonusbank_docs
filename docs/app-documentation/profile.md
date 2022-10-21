@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-id: profile
+id: app-profile
 title: Profile
 description: See your profile and transfers.
 keywords:

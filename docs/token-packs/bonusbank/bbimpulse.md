@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-id: bb-impulse
+id: packs-bb-impulse
 title: Impulse
 description: Reward effort, attitude and good work.
 keywords:
