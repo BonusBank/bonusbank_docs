@@ -15,7 +15,7 @@ last_update:
 
 Reward effort, attitude and good work instantly with tokens that turn into real money regularly or when targets are met.
 
-## Executing
+## <span class="material-icons categoryIcon">add_task</span> Executing
 
 Making things happen. When teams need to implement a solution, they look for people with execution skills who will work tirelessly to accomplish the goal.
 
@@ -140,7 +140,7 @@ Keeping yourself and your surroundings clean
 
 <br></br>
 
-## Bonifications
+## <span class="material-icons categoryIcon"> beenhere </span> Bonifications
 
 Giving a bonus as recognition in honor of a result, responsable action, effort, productivity or performance.
 
