@@ -15,7 +15,7 @@ last_update:
 
 Reinforce desired values, behavior and attitudes. The Tokens represent the soft skills you wish to promote. The Tokens enable the giving of instant positive reinforcement.
 
-## <span class="material-icons categoryIcon">task_alt</span> Influencing
+## <span class="material-icons categoryIcon"> mediation </span> Influencing
 
 Influencing others. When teams need to sell their ideas inside and outside the organization, they turn to people with Influencing skills to convince others. They may also take charge, speak up and make sure others are heard.
 
@@ -106,7 +106,7 @@ Believing in the reliability, truth or ability of others.
 
 <br></br>
 
-## <span class="material-icons categoryIcon">task_alt</span> Relationship Building
+## <span class="material-icons categoryIcon"> link </span> Relationship Building
 
 Building and nurturing strong relationships. When teams need to be greater than the sum of their parts, they turn to people with Relationship Building skills to strengthen their bonds. They may help you hold a team together.
 
@@ -197,7 +197,7 @@ Having the abilities to work effectively in an organized group.
 
 <br></br>
 
-## <span class="material-icons categoryIcon">task_alt</span> Strategic Thinking
+## <span class="material-icons categoryIcon"> insights </span> Strategic Thinking
 
 Absorbing, thinking about and analyzing information and situations. When teams need to focus on what could be, they turn to people with Strategic Thinking skills to stretch
 the team's thinking for the future. They may help you make better decisions and create better outcomes.

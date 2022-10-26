@@ -15,7 +15,7 @@ last_update:
 
 Reward effort, attitude and good work instantly with tokens that turn into real money regularly or when targets are met.
 
-## <span class="material-icons categoryIcon">task_alt</span> Executing
+## <span class="material-icons categoryIcon">add_task</span> Executing
 
 Making things happen. When teams need to implement a solution, they look for people with execution skills who will work tirelessly to accomplish the goal.
 
