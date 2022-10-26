@@ -87,17 +87,17 @@ To add a user to your space, tap the "Add user to Space" button.
 
 You'll need to fill the name, the email adress and the role of the new member.
 
-There's a second screen with more fields, but these are optional.
-
 <p align="center"><img src={require('./img/bbeditmember.png').default} alt="drawing" width="200"/></p>
+
+There's a second screen with more fields, but these are optional.
 
 The member will recieve an invitation. If the new member accepts, you'll have a new member at your space.
 
-Let's create a new Plan now.
+Let's create a new **Plan** now.
 
 ## Creating a Plan
-To create a plan, open the drawer again and tap the "Recognition and Incentive Plans" option.
-In this screen, your current plans will appear. Tap de (+) button to create a new one.
+To create a plan, open the drawer again and tap the **"Recognition and Incentive Plans"** option.
+In this screen, your current plans will appear. Tap de **(+)** button to create a new one.
 
 The plan creation has 3 steps.
 
@@ -106,16 +106,16 @@ The plan creation has 3 steps.
 1. In the first step you have to specify the plan **type**, the **frequency**, who will be able to send tokens and it's **expiration date**.
 <p align="center"><img src={require('./img/plan-edit2-incentives.png').default} alt="drawing" width="200"/></p>
 
-2. In the second step you'll select tokens and it's amount.
+2. In the second step you'll select the **tokens** and it's **amount**.
 
 <p align="center"><img src={require('./img/plan-edit3-incentives.png').default} alt="drawing" width="200"/></p>
 
-3. Lastly, in the third step, you'll fill the final details of the plan.
+3. Lastly, in the third step, you'll fill the **final details** of the plan.
 
 With the **plan**, now you can send **transfers**. Let's make one.
 
 ## Making a transfer
-To make your first transfer, tap the (+) button in the bottom center of the app.
+To make your first transfer, tap the **(+)** button in the bottom center of the app.
 
 In the actions screen, tap the "Reward Tokens" button.
 
