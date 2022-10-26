@@ -15,7 +15,7 @@ last_update:
 
 Use these tokens for special incentives like stock options, phantom shares and the ability to donate to favorite charities.
 
-## Rewards
+## <span class="material-icons categoryIcon"> beenhere </span> Rewards
 
 Giving a reward, prize or other mark of recognition in honor of a person's achievement or performance.
 
@@ -51,7 +51,7 @@ The value of the Tokens track the value of shares. Reward talent with phantom To
 
 <br></br>
 
-## CSR
+## <span class="material-icons categoryIcon"> beenhere </span> CSR
 
 Enhance and fulfil your organization's social responsibility goal: donations, solidarity initiatives, equality, etc.
 

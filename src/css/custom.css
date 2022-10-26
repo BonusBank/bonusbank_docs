@@ -62,6 +62,10 @@ table.invisibleTable tr {
   }
 }
 
+.categoryIcon{
+  color:#28bd6d;
+}
+
 .tick {
   color: #209758;
 }
