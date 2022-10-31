@@ -37,13 +37,12 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl: "https://github.com/BonusBank/bonusbank_docs/blob/main/",
+          showLastUpdateTime: true,
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/BonusBank/bonusbank_docs/blob/main/",
-          blogTitle: "Development blog",
+          blogTitle: "News blog",
+          routeBasePath: 'news',
           blogDescription:
             "A blog to share all tips & tricks and latest changes to our products!",
           postsPerPage: "ALL",
@@ -83,11 +82,16 @@ const config = {
         items: [
           {
             type: "doc",
-            docId: "intro",
+            docId: "docs-intro",
             position: "left",
             label: "Docs",
           },
-          { to: "/blog", label: "Blog", position: "left" },
+          {
+            label: "Guides",
+            to: "/guides/guides-intro",
+            position: "left",
+          },
+          { to: "/news", label: "News", position: "left" },
           //{
           //  type: 'localeDropdown',
           //  position: 'right',
@@ -106,11 +110,15 @@ const config = {
             items: [
               {
                 label: "Documentation",
-                to: "/docs/intro",
+                to: "/docs/docs-intro",
               },
               {
-                label: "Blog",
-                to: "/blog",
+                label: "Guides",
+                to: "/guides/guides-intro",
+              },
+              {
+                label: "News",
+                to: "/news",
               },
             ],
           },
@@ -189,6 +197,15 @@ const config = {
       },
     }),
   plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'guides',
+        path: 'guides',
+        routeBasePath: 'guides',
+        showLastUpdateTime: true,
+      },
+    ],
     [
       require.resolve("@cmfcmf/docusaurus-search-local"),
       {

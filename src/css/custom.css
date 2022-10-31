@@ -4,6 +4,7 @@
  * work well for content-centric websites.
  */
  @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+ @import url('https://fonts.googleapis.com/icon?family=Material+Icons');
 
 /* You can override the default Infima variables here. */
 :root {
@@ -31,4 +32,44 @@
   --ifm-color-primary-lighter: #90e8b9;
   --ifm-color-primary-lightest: #b9f0d2;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+table.invisibleTable {
+  width: 100%;
+}
+
+table.invisibleTable td {
+  border: none !important;
+  width: 50%;
+}
+
+table.invisibleTable tr {
+  border: none !important;
+}
+
+.invisible-image {
+  display: none;
+}
+
+@media only screen and (max-width: 996px) {
+  table.invisibleTable td {
+    border: none !important;
+    width: 100%;
+  }
+
+  .invisible-image{
+    display: block;
+  }
+}
+
+.categoryIcon{
+  color: #2CCE78;
+}
+
+.tick {
+  color: #209758;
+}
+
+.cross {
+  color:#B81313;
 }
