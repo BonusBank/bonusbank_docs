@@ -19,7 +19,7 @@ last_update:
 
 At BonusBank, our mission is to help companies value, recognize, motivate and reward their talent.
 
-For our clients, BonusBank's technology is a solution for accelerating recognition, incentives and rewards by enabling it on a daily basis. This enables them to create a humane, positive, agile and successful working environment.
+For our clients, BonusBank's technology is a solution for accelerating recognition, incentives and rewards by enabling it on a daily basis. This enables them to create a human, positive, agile and successful working environment.
 
 > ### We provide sets of Tokens associated with specific objectives or methodologies
 
@@ -27,21 +27,11 @@ To achieve this goal, we Tokenize: this is the technology that defines and chara
 
 In the following, we explain the difference between the two types of creators of the Token Packs:
 
-- **Partners**: these are **consulting professionals** who specialize in different topics such as **HR**, methodologies **agile**, **change management**, **employer branding**. They usually have a methodology or a theory that characterizes and defines their work or processes. Thanks to the **Token Packs**, they carry out a **translation** of the steps, concepts or KPIs that they explain or measure **into concrete processes for daily work**. It should be noted that these token packs are usually very specific and personalized, as it is a solution aimed at answering the needs of the market segment of their customers. Even so, other companies may (with the Partner's consent) be interested in implementing their Packs if these suit their objectives or needs.
+- **Partners**: these are **consulting professionals** who specialize in different topics such as **HR**, **agile** methodologies, **change management**, **employer branding**,etc. They usually have a methodology or a theory that characterizes and defines their work or processes.<br></br>
+Thanks to the **Token Packs**, they carry out a **translation** of the steps, concepts or KPIs that they explain or measure **into specific processes for daily work**. It should be noted that these Token Packs are usually very specific and personalized, as it is a solution aimed at answering the needs of the market segment of their customers. Even so, other companies may (with the Partner's consent) be interested in implementing their Packs if these suit their objectives or needs.
 
-- **Bank Bonus**: next to the segmented and tailored approach of Partners, as BonusBank we offer a more general **Initial Token Pack** designed to meet the needs of both the traditional SMEs as well as **Startups** and **Scaleups** or **Enterprises**. This token package, which is described in the next chapter, has 5 types of **tokens** with which it is possible to measure 3 **dimensions** of each professional: **social**, **performance** and **skills** (so-called Soft Skills).
-
-In the case of **BonusBank designed packs**, in addition to the initial token pack, there are other Packs that have been developed more specifically within the context or reality of specific customers.
-
-> ### The Hard and Soft Tokens allow us to measure the 3 dimensions of each professional
-
-For a better understanding, it is important to know that the **tokens** (both of **BonusBank** and its Partners) fall into two broad categories:
-
-- **Hard Tokens**: These are **tokens** for incentives and rewards with a **monetary value**. They can be directly linked to **achievements and objectives**, but also to other tokens that represent the above mentioned 3 dimensions. Hard tokens become valuable at a certain moment in time and under certain conditions and at that point every professional can convert his/her collected tokens into rewards, cash, company shares, etc. It should be noted that this is a **conditional Token**; i.e. it will be **subject to a specific condition or event** (a date and/or fulfillment of a Goal, end of a certain period, closing of a financing round...) **so that the monetary value does not fiscally exist until after such event**.
-
-- **Soft Tokens**: These **tokens** measure our **social dimension and soft skills**. In this case there is no direct economic value, but the tokens allow us to build a personal or team profile, show achievements and build relationships with other colleagues or employees.
-
-Some companies are more focused on the distribution of Hard Tokens, others on Soft Tokens or the application of a hybrid model. Based on this preference, as well as the segment and sector one belongs to, they can choose one of the specific token packages, either from Partners or from BonusBank itself.
+- **BonusBank**: BonusBank offers **3 Token Packs**, designed to work on competencies linked to day-to-day execution and performance, promote feedback and deliver incentives in an agile way.
+Each of these Token Packs has between 2 and 3 Token categories, respectively.
 
 > ### Each company can invent, develop and create its own Token package
 
