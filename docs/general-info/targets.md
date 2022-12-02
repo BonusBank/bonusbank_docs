@@ -12,22 +12,24 @@ last_update:
 ---
 
 # Targets
-> As leaders, managers or admins, we can define two useful actions within BonusBank: **Targets**. These are tools available through the app's floating button (via the "Define" option) that allow us to make our **Teams participate in the transfer decisions of Tokens**, and help us **set common objectives**.
+> As leaders, managers or admins (or even as members, depending on the app configuration), we can define a very useful action within BonusBank: **set a target**.<br></br>
+It consists of an option  available through the app's floating button (via the "Set a Target" button) that allows us to **define a target for our employees, as well as for ourselves.**
 
 
 ### What is a Target and why do we use it
 
-Essentially we could say that a **target is a collective challenge**.
+Essentially we could say that a **target is an individual challenge**.
 
-The challenge is to get a certain number of tokens (of a type or a version). This is calculated as a flow when it is about tokens flowing through a Space or through the team members' accounts. However, the Target can also be to get a specific number of tokens of a type or version. In that case you see the number of collected tokens and not the amount that came through the accounts.
+The challenge is to get a certain number of Tokens (a Token itself or a category). The way in which the target is defined is by taking as a reference the score of each person, linked to a certain token or category. In other words, depending on the Tokens accumulated, the score will increase or decrease and the objective will be to reach a certain score in a given time.
+In addition, the employee will be able to see the average score of his team.
 
-So a target is associated with receiving or sending a certain number of Tokens within a certain period (with a possible periodicity) by a group of employees of the company (or all).
+So a target is associated with receiving a certain number of Tokens within a certain period (with a possible periodicity) by a group of employees of the company (or all).
 
 Now that we know how it works, the question is why Targets exist. Every company has their reasons, but if we had to name three reasons, they would be:
 
-- **Encourage and promote the sending of tokens**. Initially it is important to motivate the teams to send each other tokens, to start using the app and to create an environment of constant feedback.
-- **Improve skills**. Soft Tokens are generally associated with skills that team members can improve. So they get such tokens when they try their best and show that they have the skill. So reception implies an **improvement** in the required skills. By defining a Target, you challenge them to work on the skills and reach the target number of tokens for that skill.
-- **Team spirit**. It is good to improve individually, but on a collective level it is just as important. The Targets ensure that all professionals within a team have a **common target** to strive for, talk about and contribute to. They have to do it together!
+- **Encourage and promote the sending of Tokens**. Initially it is important to motivate the teams to send each other Tokens, to start using the app and to create an environment of constant feedback.
+- **Improve skills**. Tokens linked to soft skills are generally associated with skills that team members can improve. So they get such Tokens when they try their best and show that they have the skill. So reception implies an **improvement** in the required skills. By defining a Target, you challenge them to work on the skills and reach the target number of Tokens for that skill.
+- **Team spirit**. It is good to improve individually, but on a collective level it is just as important. The Targets ensure that all professionals within a team could have a **common target** to strive for, talk about and contribute to.
 
 And you? What benefits do you see in the Targets?
 
@@ -35,28 +37,25 @@ And you? What benefits do you see in the Targets?
 
 Now, we explain graphically and intuitively **how** you **can define a Target** within BonusBank.
 
-The way to access this option is **through the side menu** of the app or via the **floating button** and choosing the "**Define**" option; once there it's as simple as **selecting** the option "**target**" and then you get to a screen where, in case no Target has been created (as in the examples we show below the explanation), it informs you that there are no Targets to show. **Above on the top right** you'll be able **to create** a Target using the **"+" option.**
+The way to access this option is **through the side menu** of the app or via the **floating button** and choosing the "**Set a target**" option. In the first case, we must select the "Targets" option, which will take us to the list of all active or inactive Targets linked to our account. At the top right, we will have a "+" button that will allow us to define a new Target.
+By following either of these two paths, we will arrive at the target creation screen, structured in 3 steps.
 
-<p align="center"><img src={require('./img/missionscreate.png').default} alt="drawing" width="500"/></p>
+<p align="center"><img src={require('./img/target_flow_1.png').default} alt="drawing" width="600"/></p>
 
-Once you have defined a Target, it will appear on the screen on the right where you can see it title, the details of **participants**, the **start and end dates** and its **progress** (number of received or sent tokens related to the set target). You can consult more information such as the latest transfers that are related to the Target.
+Once you have defined a Target, it will appear on the screen on the right where you can see its title, the details of the **participant**, the **days left** to achieve it and its **progress** (initial score, current score and target score). You can consult more information such as the Plan linked to the target or the full description.
 
 Back to the creation process: you selected the **"+"** and automatically go to a screen in which we have to fill in a series of **fields**. Below you see a real case where you can see what information you can fill in in each field to define the Target:
 
-<p align="center"><img src={require('./img/missionsedit.png').default} alt="drawing" width="300"/></p>
+<p align="center"><img src={require('./img/target_creation_1.jpeg').default} alt="drawing" width="300"/></p>
 
-First, we must define whether the Target is going to be **for a specific Team or global** (that is, for the entire Space or company). Next, we assign a **title** and give a clear **description** of the Target so that everyone can understand what it consists of. After completing these basic fields, it is time to add the details:
+First, we must define **who is going to get the Target** (ourselves or an employee, if we are leaders). Next, we decide **what we want to measure**: a category (skill) or a Token (behaviour). After completing these basic fields, it is time to add the details:
 
-<p align="center"><img src={require('./img/missionseditstep2.png').default} alt="drawing" width="500"/> </p>
+<p align="center"><img src={require('./img/flow_target_creation.png').default} alt="drawing" width="700"/> </p>
 
-As can be seen, the next field you need to indicate what you **want to measure and have as an indicator** of the extent to which the Target is being accomplished, choosing from three possibilities:
+As can be seen, the next field you need to indicate **what score is the target** (being between the current score that you/the employee have/has and the maximum, 5). After that, is time to assign a **title** and give a clear **description** of the Target so that everyone can understand what is consists of.
 
-- We can select to measure the **total flow of all the Tokens available** at the Space or Team level ( depending on who gets the Target)
-- We can decide that only **the flow of one type of Token is measured** (such as Social or Profit, about which we talk in this info item)
-- Or we only measure **the flow of a specific Token**.
+In the case of Example shown, the competence "Productivity" has been selected, as well as a score of 4.5 to be achieved.
 
-In the case of Example shown, the third option has been selected (the Creativity Token, derived from the Token type "Expertise").
+To finish defining the Target, it is necessary to choose the **start date and end date**, so we can inform ourselves or the employee when the Target should be reached.
 
-To finish defining what we want to measure, it is necessary to choose the **type of flow: Tokens sent or Tokens received**. In the case shown, the Target consists of the entire Team receiving a series of Creative Tokens. How many? That is the next completed field and we can see that it is 100.
-
-Finally, we can **decide** if we want this Target to **be repeated periodically or not**; In the case of repeating it, we will simply have to mark the periodicity (eg: every 2 months, every 3 weeks, every 5 days ...). In this case it is a specific one-off Target and that’s why it shows an end date.
+Finally, we can **decide** if we want this Target to **be public or not** (so everyone will se it in the public section of the app) and if it belongs to a Recognition Plan that we have alredy create it and that we want to link.

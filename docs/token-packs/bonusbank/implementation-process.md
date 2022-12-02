@@ -14,28 +14,30 @@ last_update:
 
 # The implementation process
 
-The **implementation process** of different **Token Packs** follow a similar logic. To help you understand it, we will illustrate this process with the Initial Token package (the starters pack).
+The **implementation process** of different **Token Packs** follow a similar logic. To help you understand it, we will illustrate this process with the BonusBank Token packs.
 
 > ## BonusBank serves SMEs, Startups / Scaleups and Enterprises
 
 **BonusBank** serves **three** major business **segments**:
 
 - **Traditional SMEs**. Organizations of approximately 10 to 250 employees, primarily focused on providing **incentives** and **monetary rewards**, or bonuses, to their employees. They are aware of the importance of being able to offer something at the right moment throughout the year and of rewarding every step towards a goal. They want to continuously motivate their best employees and to continuously show the progress of their actions, and not just once a year.
-- **Agile Startups, Scaleups and the modern SME**. We also refer to companies with between 10 and 250 employees, where good** team work** is the **main asset**. They work in **agile** and changing teams that are formed for a project or Goal. They prefer to focus on what they call peer-to-peer recognition in order to generate **intrinsic motivation**. They need a tool to facilitate mutual recognition among colleagues (at both the team and company level) and measure the _soft skills_ of every professional and team. In addition, often they are also interested in offering shares to their best talent and for this they look for a fair way to allocate such rights, based on the effort and results.
-- **Large enterprises**. Companies with more than 250 professionals, looking for a way to give instant feedback, recognition or rewards and in **need** of **organizational change** in an effort to become **more agile**. These are companies that already work (to a greater or lesser extent) with agile teams and that want to know how these teams, and every person within them, function; and this not only on a performance level, but also in the development of their _soft skills_. The HR software most commonly used by these companies in general does not allow for immediate rewards and recognition that can be converted into tangible value at a later date. Therefore, BonusBank works as a "layer on top" of such software and will be available in their marketplaces in order to facilitate the integrated use of BonusBank.
 
-Looking in more detail at the needs of the 3 segments mentioned above, we see how some may be more interested in Hard Tokens and others in Soft Tokens(as defined in the Introduction).
+- **Agile Startups, Scaleups and modern SMEs**. We also refer to companies with 10 to 250 employees, where good **team work** is the **main asset**. They work in **agile** and changing teams that are formed for a project or Goal. They prefer to focus on what they call peer-to-peer recognition in order to generate **intrinsic motivation**. They need a tool to facilitate mutual recognition among colleagues (at both the team and company level) and measure the _soft skills_ of every professional and team. In addition, often they are also interested in offering shares to their best talent and for this they look for a fair way to allocate such rights, based on the effort and results.
 
-> ### The Initial Pack is a general Token Pack that responds to all possible needs of the above-mentioned market segments.
+- **Large enterprises**. Companies with more than 250 professionals, looking for a way to give instant feedback, recognition or rewards and in **need** of **organizational change** in an effort to become **more agile**. These are companies that already work (to a greater or lesser extent) with agile teams and that want to know how these teams, and every person within them, function; and this not only on a performance level, but also in the development of their _soft skills_. The HR software most commonly used by these companies in general does not allow for immediate rewards and recognition that can be converted into tangible value at a later date.
 
-> ### It consists of 5 types of token: Recognition, Expertise, RSC, Bonus and Profit
+Looking in more detail at the needs of the 3 segments mentioned above, we see how some may be more interested in one Token Pack or other (or maybe more than one).
 
-The **first two** have no concrete value and are therefore more like **Soft Tokens** (despite the fact that the Expertise Tokens can be linked to Tokens for financial incentives, as described in the next chapter); the **third** (RSC) is a **hybrid** of both types, and the **last two** (Bonus and Profit) are what we call **Hard Tokens** because they represent tangible bonuses and monetary rewards.
+> ### The 3 BB Token Packs are a general solution that respond to all possible needs of the above-mentioned market segments.
 
-In order for any kind of organization to be able to start with **Tokens**, we have made a starter package. It is a **general solution** that allows you to **measure** the **3 dimensions** of persons and teams (social, performance and competence), and to start with 1 or 2 specific token types and then scale when all have been tried. Each company can then develop its own model of Hard, Soft and Hybrid tokens.
+Under the names **Impulse, Feedback and Incentives Plus**, 3 solutions have been created to meet the different needs of an organisation.
 
-There will also be many organizations with their own very well-defined evaluation method and activities, and who know how to translate their KPIs or OKRs into Tokens. In such a case, we offer a bespoke **Token Pack** with a more detailed and personalized set of tokens. This may depends on the segment, sector, profile and average age of the employees or the company culture.
+> ### It consists of 7 Token categories (28 Tokens): Rewards, CSR, Executing, Bonifications, Influencing, Relationship Building and Strategic Thinking
 
-> ### With the Initial Pack we get a better understanding of how the application works, we get to know the three dimensions of Tokens and we immediately have a workable solution
+The first one, Impulse, gives the option to **recognize typical day-to-day performance tasks**, such as: compliance, responsibility, punctuality... As well as **delivering bonuses** to employees in a more agile way.
+It is a proposal designed for those more traditional SMEs to enter this world, as well as a base for any other organization.
 
-Using the **Initial Pack** has many **advantages**: we get a better understanding of how the application works, we learn the 3 dimensions of Tokens (social, performance and competence) and we immediately have a workable solution…. And from there we can supplement it with other Packs developed by **BonusBank** or one of its partners, or one can develop our own Token Pack and thus reach **the next level**.
+On the other hand, the Feedback Token Pack goes a step further in the concept of **recognition**.
+Thanks to it, we can value the influence capacity, the ability to build relationships and the leadership of our colleagues and employees.
+
+Finally, the Incentives Plus Token Pack is aimed at **streamlining the way we reward** our employees. Both with financial and non-financial rewards, as well as by involving staff in our CSR policies.

@@ -34,27 +34,25 @@ To show **what each user role can and cannot do**, we´ve made a summary table. 
 |      Create Tokens for a Team      |            <span class="material-icons tick">done</span>             | <span class="material-icons tick">done</span> | <span class="material-icons tick">done</span>  | <span class="material-icons cross">close</span> | <span class="material-icons cross">close</span> |
 | Transfer Tokens at the Space level |            <span class="material-icons tick">done</span>             | <span class="material-icons tick">done</span> | <span class="material-icons tick">done</span>  | <span class="material-icons cross">close</span> | <span class="material-icons cross">close</span> |
 | Transfer Tokens at the Team level  |            <span class="material-icons tick">done</span>             | <span class="material-icons tick">done</span> | <span class="material-icons tick">done</span>  | <span class="material-icons tick">done</span>  | <span class="material-icons cross">close</span> |
-|           Manage budgets           |            <span class="material-icons tick">done</span>             | <span class="material-icons tick">done</span> | <span class="material-icons tick">done</span>  | <span class="material-icons cross">close</span> | <span class="material-icons cross">close</span> |
+|           Create and manage Plans           |            <span class="material-icons tick">done</span>             | <span class="material-icons tick">done</span> | <span class="material-icons tick">done</span>  | <span class="material-icons cross">close</span> | <span class="material-icons cross">close</span> |
 |            Full access             |            <span class="material-icons tick">done</span>             | <span class="material-icons tick">done</span> | <span class="material-icons cross">close</span> | <span class="material-icons cross">close</span> | <span class="material-icons cross">close</span> |
-|    Set goals at the Space level    |            <span class="material-icons tick">done</span>             | <span class="material-icons tick">done</span> | <span class="material-icons tick">done</span>  | <span class="material-icons cross">close</span> | <span class="material-icons cross">close</span> |
-|      Set goals at Team level       |            <span class="material-icons tick">done</span>             | <span class="material-icons tick">done</span> | <span class="material-icons tick">done</span>  | <span class="material-icons tick">done</span>  | <span class="material-icons cross">close</span> |
 
 </p>
 
-Thus we see that the "Owner" has permission to perform any of the 15 actions that determine user profiles and their functioning, while on the other hand a "Member" has access to all the information of its Space/s and Team/s as well as public and individual information; and is allowed to make transfers to colleagues or managers, as long as the type of Token permits (due to the configuration).
+Thus we see that the "Owner" has permission to perform any of the 13 actions that determine user profiles and their functioning, while on the other hand a "Member" has access to all the information of its Space/s and Team/s as well as public and individual information; and is allowed to make transfers to colleagues or managers, as long as the type of Token permits (due to the configuration).
 
-It must be said that you see **the default configuration here that** allows each company to assign the appropriate role to each of its employees. In the event that a company needs a larger number of profiles or wishes to grant different permissions, the logic and configuration shown here can **be changed**.
+It must be said that you see the **default configuration** here that allows each company to assign the appropriate role to each of its employees. In the event that a company needs a larger number of profiles or wishes to grant different permissions, the logic and configuration shown here can be changed.
 
 Finally, a brief overview of the 5 types of users shown. It is **recommended that you use each of the profiles in the following contexts**:
 
-- **Owner**. The person who sets up the Room or Team automatically becomes the owner. It is a role that is **automatically assigned** by the App and that gives access to all actions (obviously whoever creates a Room or Team also wants and has permission to perform all activities)
+- **Owner**. The person who sets up the Space or Team automatically becomes the owner. It is a role that is **automatically assigned** by the app and that gives access to all actions (obviously whoever creates a Space or Team also wants and has permission to perform all activities)
 
-- **Administrator**. A type of user who enjoys **the same benefits as the owner**, despite not having generated the Space or Team. In principle, this role is intended for a very limited number of people and may even not be used
+- **Administrator**. A type of user who enjoys **the same benefits as the owner**, despite not having generated the Space or Team. In principle, this role is intended for a very limited number of people and may even not be used.
 
-- **Manager**. One of the **common roles** when empowering those in charge of the companies. A manager may take **any action, except** removing **spaces or teams**, or changing **spaces** (yet they can create both **new** spaces and teams)
+- **Manager**. One of the **common roles** when empowering those in charge of the companies. A manager may take **any action, except removing spaces or teams**, or **changing spaces** (yet they can create both new spaces and teams).
 
-- **Team Leader**. This is a more limited management role, as it it is limited to **the Team level** and with certain restrictions
+- **Team Leader**. This is a more limited management role, as it is limited to **the Team level** and with certain restrictions.
 
-- **Member** As mentioned above, this is the role of the **majority of the users of the App** and with which one can consult private and public information, and transfer tokens to colleagues as long as the type of Token allows it
+- **Member** As mentioned above, this is the role of the **majority of the users of the app** and with which one can see private and public information, and transfer Tokens to colleagues as long as the type of Token allows it.
 
-And now that we know all levels of the App, whether we're talking about Spaces and Teams or Roles, it's time **to talk about: Budgets, Tokens, Missions and Transfers**. Don't miss the following 4 info items!
+And now that we know all levels of the App, whether we're talking about Spaces and Teams or Roles, it's time **to talk about: Plans, Targets and Transfers**. Don't miss the following 3 info items!

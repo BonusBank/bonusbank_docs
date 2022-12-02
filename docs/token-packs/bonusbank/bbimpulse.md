@@ -13,7 +13,9 @@ last_update:
 
 # Impulse
 
-Reward effort, attitude and good work instantly with tokens that turn into real money regularly or when targets are met.
+Reward effort, attitude and good work instantly with Tokens that turn into real money regularly or when targets are met.
+
+The Impulse Token Pack is a solution consisting of 2 categories and 8 tokens, with which to measure, recognise and reward daily performance.
 
 ## <span class="material-icons categoryIcon">add_task</span> Executing
 

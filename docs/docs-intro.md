@@ -34,15 +34,16 @@ Let's first talk about what the **BonusBank** Software consists of:
 
 ### What can we do?
 
-Within BonusBank you can carry out **5 actions**:
+Within BonusBank you can carry out **2 actions**:
 
 1. **Recognition**. Send Tokens to recognize the skills and abilities of your colleagues or employees or simply to thank or congratulate them
 
-2. **Reward**. Incentivize your employees by sending Tokens associated with monetary rewards, such as: prizes, money, company shares...
+2. **Incentive**. Incentivize your employees by sending Tokens associated with monetary rewards, such as: prizes, money, company shares...
 
-3. **Goal**. Define a collective mission and get your Team or Teams to reach it within the defined time limit.
+If you want to know more about the 2 types of reward (Recognition and Incentive), we recommend to read [this information item](http://localhost:3000/docs/general-info/general-transfers). 
 
-If you want to know more about the 2 types of feedback (Recognition and Reward), we recommend to read this information item. As for defining Goals, you have all the information in [this info item.](http://localhost:3000/docs/general-info/general-intro).
+In order to be able to carry out these two actions, it is necessary to create a Plan beforehand. Plans are Token-related periods where people can send specific Tokens. If you want to know more about Plans, how to create them and the types that exist, see [this information item](http://localhost:3000/docs/general-info/schedules).
+
 
 Now that you know what BonusBank is for, we will explain what you need to do to access the App and the Dashboard.
 
@@ -52,7 +53,8 @@ Now that you know what BonusBank is for, we will explain what you need to do to 
 <table class="invisibleTable">
   <tr>
     <td>
-      As you have read before, the <strong>BonusBank App</strong> will be <strong>available</strong> for Android, <strong>iOS</strong> and as a <strong>web version</strong> (to also enjoy the application on PC).
+      As you have read before, the <strong>BonusBank App</strong> is <strong>available</strong> for Android, <strong>iOS</strong> and as a <strong>web version</strong> (to also enjoy the application on PC).<br></br>
+      
       Below you will find the <strong>links</strong> to go directly to the <strong>Play Store</strong> (for Android) or to the <strong>App Store</strong> (for Apple iOS) and get the App on your phone or tablet in a matter of seconds!<br></br><br></br>
       <a href="https://play.google.com/store/apps/details?id=com.bonusbank.bonusbank_app"><h3> Access the Play Store (Android)</h3></a><br></br>
       <a href="https://apps.apple.com/us/app/bonusbank/id1578469644"><h3>Access the App Store (iOS)</h3></a>
@@ -65,18 +67,12 @@ Now that you know what BonusBank is for, we will explain what you need to do to 
 
 ### Dashboard
 
-<p align="center" class="invisible-image" ><img src={require('./general-info/img/dashboard-overview.png').default} alt="drawing" width="400" text-align="center"/></p>
-<table class="invisibleTable">
-  <tr>
-    <td>
-    To access the <strong>dashboard</strong> of BonusBank, you must meet two conditions:
-      1. Your organization has an agreement with BonusBank
-      2. You are a manager or have a managerial position within the company
-      If so, you are almost able to enjoy the full experience. Unfortunately, the dashboard is <strong>not available to everyone</strong> as it reflects user stats (unique to each organization) that not everyone will access to. <strong>Discover your role</strong> and we'll let you know if you can enjoy the management panel!
-      <a href="https://dash.bonusbank.eu"><h3>Access the Dashboard</h3></a>
-    </td>
-    <td>
-      <img src={require('./general-info/img/dashboard-overview.png').default} alt="drawing" width="400" text-align="center"/>
-    </td>
-  </tr>
-</table>
+<p align="center"><img src={require('./general-info/img/combo-new-screens.png').default} alt="drawing" text-align="center"/></p>
+
+To access the <strong>dashboard</strong> of BonusBank, you must meet two conditions:<br></br>
+  1. Your organization has an agreement with BonusBank.<br></br>
+  2. You are a manager or have a managerial position within the company.<br></br><br></br>
+
+
+If so, you are almost able to enjoy the full experience. Unfortunately, the dashboard is <strong>not available to everyone</strong> as it reflects user stats (unique to each organization) that not everyone will access to.<br></br><strong>Discover your role</strong> and we'll let you know if you can enjoy the management panel!<br></br>
+<a href="https://dash.bonusbank.eu"><h3>Access the Dashboard</h3></a>
