@@ -15,6 +15,8 @@ last_update:
 
 Reinforce desired values, behavior and attitudes. The Tokens represent the soft skills you wish to promote. The Tokens enable the giving of instant positive reinforcement.
 
+The Feedback Token Pack is a solution composed of 3 categories and 15 Tokens, with which to measure and recognize key skills and competencies for our teams.
+
 ## <span class="material-icons categoryIcon"> mediation </span> Influencing
 
 Influencing others. When teams need to sell their ideas inside and outside the organization, they turn to people with Influencing skills to convince others. They may also take charge, speak up and make sure others are heard.

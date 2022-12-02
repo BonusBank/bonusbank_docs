@@ -1,8 +1,8 @@
 ---
 sidebar_position: 1
 id: app-balance
-title: Balance
-description: How tokens and balance work.
+title: Token Wallet
+description: How Tokens and wallet work.
 keywords:
   - tokens
   - balance
@@ -11,50 +11,47 @@ last_update:
   date: 10/14/2022
 ---
 
-# Screen I: Balance
+# Screen I: Token Wallet
 
-<p align="center"> What is the BonusBank Balance? What can I find in it? How does it work? Keep reading and you will find the answer to these questions.</p>
+<p align="center"> What is the BonusBank Token Wallet? What can I find in it? How does it work? Keep reading and you will find the answer to these questions.</p>
 
-### What is the Balance and what data do we find there?
+### What is the Token Wallet and what data do we find there?
 
-The **Balance** is one of the app's four home screens, where **we can see all the tokens we own as a member and manage as a leader**.
+The **Token Wallet** is one of the app's four main screens, where **we can see all the Tokens we have in our balance as well as those we are in the process of obtaining**.
+It is important to note that the Tokens we see on this screen will always be linked to an Incentive Plan.
 
-Based on this definition **Leader Tokens** are visible in the balance, but **they are not included in our account as ours**, because we need to distribute them to other members (we only act as an intermediary). In the event that our tokens are not leader tokens (i.e. member tokens), we get information related to **how the token is configured to behave**. Currently, the possible behavior of tokens (and the information we see in the associated balance) is as follows:
+Regarding the Tokens that are in the process of being redeemed, we will see how they will appear sorted by the Plan to which they are linked.
 
-- **One-way**. These are **one-way tokens**. In this case, they make only one journey: from the sender to the recipient, to be then placed on the recipient's account according to the defined criteria. For this we can currently **see two information items in the balance**.
+As for the Tokens whose period to obtain them has ended, they will be classified among those that we have redeemed, those that have not yet been redeemed and those that have been cancelled/rejected by the manager for whatever reason.
 
-- **Estimated value**. When it comes to a **Hard Token** (you can see what a Hard Token is in the Tokens info item) we see, together with the number we have in our account, the (conditional) **estimated value in the currency that our company chose** (and will be exchanged by the company for that value after the condition has been met (such as the end of a date, achieving a goal, etc.)
+Therefore, **with just two tabs**, any user will be able to know the **Tokens they are accumulating**, those they have **earned**, those they have **not earned** and the **status of all their Incentive Plans**.
 
-- **Ranking**. For **Tokens** that **measure skills** (so-called Expertise tokens in the BonusBank environment), we can know (depending on how many Tokens we have) in what **percentile** (Top5 , Top20, Top50, etc.) we are with respect to the total of colleagues in our Space or at our team level.
+### What does the Token Wallet look like
 
-- **Circular**. These are tokens that **must always be in motion** and generate a constant flow. For that reason, it is not **valuable to have** a large amount of this type of Tokens in the account, because what counts is **the flow that goes through your account** (a large amount that has come in and also left). Therefore, we get information in the balance about **how many of the tokens we received we can still transfer** (as there may be restrictions that prevent everything one has sent from being sent; you can see the different cases in this info item in the section " Restrictions of shipments")
+To illustrate what was explained about the Token Wallet, we now show an example of how you can see your own Token Wallet in the application and so we can describe in more detail its variables:
 
-### What does the balance look like
-
-To illustrate what was explained about the Balance and the behavior of the Tokens, we now show an example of how you can see your own Balance in the application and so we can describe in more detail its variables:
-
-<p align="center"><img src={require('./img/balancescreen.png').default} alt="drawing" width="250"/></p>
+<p align="center"><img src={require('./img/token_wallet.png').default} alt="drawing" width="250"/></p>
 
 If you look at the top of the screen, you'll see a slider which allows you to select between two options:
 
-- **Paid**. In this section you will find the tokens you have **recieved** and are already **confirmed and payed**.
+- **Balance**. In this section you will find the **Tokens** you have **received** and whose **Plan is already finished**.
 
-- **Rewarded**. Here there are the tokens that have been sended to you, but **haven't yet been approved** by your plan manager.
+- **Pending**. Here there are the **Tokens** that have been sended to you, but **haven't yet been approved** by your plan manager.
 
-As you can see, there are different types of tokens that are grouped by Token Pack; so if we have multiple token packs, the token types from those different packs will not be mixed up.
+As you can see in the "Pending" section, there are different Token categories that are grouped by Plan; so if we have multiple Plans, the Token categories from those different Plans will not be mixed up.
 
-In addition, at the top of each token pack, the tokens we have as leaders (if applicable) appear framed with a blue border and with the word ‘leader’ in parentheses for easy identification\*.
+In addition, there can be several Tokens per each Token category. So we can see more than one Token on the same card (where the category is shown).
 
-For each available token , there are two variables visible in the global balance:
+In the **"Balance" section**, for each received Token and Plan finished, there are **three possible options**:
 
-- First, if it is a **circular token, it will** be the number **of** tokens **"Available"** to give away. On the other hand, if it is a **unidirectional token**, it sayst **"Received**" because these tokens cannot be forwarded.
+- **Paid**. These are Tokens linked to a Plan that has been finalized and validated by the manager and for which **you have already received/redeemed** their estimated value.
 
-- Second, there are different values ​​depending on whether it is a circular or unidirectional token (according to the criteria outlined above).
+- **Not paid**. In this case, the Plan has been finished and validated, but **you haven't received/redeemed** the Token's estimated value yet.
 
-The **"+info"** button gives us **more** detail about the token itself (via a complete description), by whom and to whom it can be transfered, the limit (if any), etc.
+- **Rejected**. The **Plan** has finished, but the **manager has decided not to validate** it. So you won't receive/be able to redeem the Tokens that you earned during this period of time.
 
-<p align="center"><img src={require('./img/bbpopup.png').default} alt="drawing" width="250"/></p>
+The **"+info"** button gives us **more detail about the Token category** itself (via a complete description): description, related Tokens, Token Pack it belongs to, etc.
 
-Brilliant! We know everything about our balance, let's go to the Targets?
+<p align="center"><img src={require('./img/popup_token_wallet.png').default} alt="drawing" width="250"/></p>
 
-<sup><sup>* If you've wondered what logic is followed at the sample content level in the case of multiple active token packs, it's very simple: the token pack with the most leader tokens is above and in case of a tie we always see the pack with lower balance of tokens at the top.</sup></sup>
+Brilliant! We know everything about our Token Wallet, let's go to the Performance screen!
