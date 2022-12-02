@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 id: app-active-goals
-title: Active Goals
+title: Progress
 description: Check your active goals.
 keywords:
   - goals
@@ -11,32 +11,34 @@ last_update:
   date: 10/14/2022
 ---
 
-# Screen III: Active Goals
+# Screen III: Your Progress
 
-<p align="center"> In the info item on Goals we have already explained what they are, how to create them and the different options that we will have within BonusBank; so let’s now focus on this screen, what’s on it and how you can see it. Let’s start!</p>
+<p align="center"> In the info item on Targets we have already explained what they are, how to create them and the different options that we will have within BonusBank; so let’s now focus on this screen, what’s on it and how you can see it. Let’s start!</p>
 
-### What is the Open Goals screen and what do we find on it?
+### What is the Progress screen and what do we find on it?
 
-As we explained well in the item on Goals, a Goal consists of a collective challenge. Specifically, it’s intended to focus a specific Team or the entire company on generating a certain flow of Tokens within a period of time or with a certain recurrence.
+As we explained well in the item on Targets, a Target consists of **an individual challenge**. Specifically, the Target is associated with receiving a certain number of Tokens within a certain period (with a possible periodicity) by a group of employees of the company (or all).
 
-But ... Once we have defined these Goals, where can we check progress? Right on this screen.
+But ... Once we have defined these Targets, **where can we check progress? Right on this screen**.
 
-On the active Goals screen we can see all those Goals in which we are participating at the Team or Space level and the progress or evolution in each one of them.
+On the Progress screen you can see all those **Targets in which you are involved** and the progress or evolution in each one of them. In addition, you can see all the **public Targets of your colleagues**, in order to support them and pay attention to their efforts and recognize them.
 
-Therefore, this screen provides us with a small management panel on our mobile phone with which to check our performance and that of our Teams and to see if Goals are within reach of being accomplished.
+Therefore, this screen provides us with a small management panel on our mobile phone with which to check our performance and that of our colleagues and to see if Targets are within reach of being accomplished.
 
-### What is the Active Goals screen like?
+### What is the Progress screen like?
 
-Let's first show you what the Active Goals screen looks like to the user, so you understand it more quickly:
+Let's first show you what the Progress screen looks like to the user, so you understand it more quickly:
 
-<p align="center"><img src={require('./img/activegoals.png').default} alt="drawing" width="250"/></p>
+<p align="center"><img src={require('./img/progress.png').default} alt="drawing" width="250"/></p>
 
-The view shown in this screenshot shows the **total of active Goals**; that is, all the Goals that have not yet finished both for the **Space**, and for all the **Teams** to which we belong.
+The view shown in this screenshot shows the **total of active Targets**; that is, all the Targets that have not yet finished both private and public.
 
-In the **upper part** there is a **carousel** which we can slide and it shows us the specific Goals related to each of the **Teams to which we belong** (in this case, we can see how there are 3 Teams, one for each dot on the carousel). Therefore, in this first card, we see all the Goals in which our Teams are participating, as well as those for all participants in the Space (that is, without linking any Team, but globally).
+In the **upper part** there is a **slider**, with which we can select whether we see our own targets or all those that are public (defined as such when they are created and which can be either ours or those of our colleagues).
 
-As for the **detail** of each card, we can see the **title** of each Goal, as well as the **description**, the **completion percentage**, the **time left** for completion and the data about **how many members** are **participating** in it, the average number of Tokens that they are sending or receiving (depending on the objective) and **our personal contribution to the Goal**.
+Both screens show the content in a very similar way: on cards, which contain the **title** and **description** of the target, the **score** with which the target was **started**, the **current score** and the **goal score** to be reached, and the **days remaining** until the end of the target. 
 
-If we select the button for more information, we will be able to see all the fields associated with a Goal and as explained in this info item.
+In the case of **public targets**, we will also see the name of the user **who must meet the target**.
 
-This is the information you can see on the Open Goals screen. Shall we create one?
+If we select the button for more information, we will be able to see all the fields associated with a Target and as explained in [this info item](http://localhost:3000/docs/general-info/general-targets).
+
+This is the information you can see on the Progress screen. Shall we create a Target?

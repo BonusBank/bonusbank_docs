@@ -13,7 +13,9 @@ last_update:
 
 # Incentives Plus
 
-Use these tokens for special incentives like stock options, phantom shares and the ability to donate to favorite charities.
+Use these Tokens for special incentives like stock options, phantom shares and the ability to donate to favorite charities.
+
+The Incentives Plus Token Pack is a solution composed of 2 categories and 5 Tokens, with which to reward and incentivize our employees in a more agile and complete way.
 
 ## <span class="material-icons categoryIcon"> workspace_premium </span> Rewards
 
